@@ -59,7 +59,9 @@
           "path": "instruction/mental-models-and-conceptual-models/mental-models-and-conceptual-models.md",
           "id": "34729dca-c79e-4890-8da4-3899fcf8f210",
           "state": "published",
-          "description": "Explain the difference between a user's mental model and the system's conceptual model, and how to bridge the gap between them."
+          "interactions": [],
+          "description": "Explain the difference between a user's mental model and the system's conceptual model, and how to bridge the gap between them.",
+          "commit": "dac36533c44c2e369653aeef75398a6d01c80c55"
         },
         {
           "title": "The Seven Stages of Action",
