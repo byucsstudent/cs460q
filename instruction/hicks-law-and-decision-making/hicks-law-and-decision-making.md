@@ -4,6 +4,8 @@ In the realm of Human-Computer Interaction (HCI), we often focus on making inter
 
 Hick’s Law is the scientific foundation for the "less is more" philosophy. It provides a mathematical justification for simplifying interfaces, streamlining navigation, and reducing the cognitive burden placed on users. By understanding the relationship between choice and reaction time, you can move beyond aesthetic preferences and make design decisions rooted in human psychology.
 
+![hicks.png](hicks.png)
+
 ### The Mathematical Foundation and Logic
 
 The core of Hick’s Law is expressed through a logarithmic formula: `RT = a + b \log_2(n)`. In this equation, `RT` is the reaction time, `n` is the number of equally probable choices, and `a` and `b` are constants based on the context of the task. 
