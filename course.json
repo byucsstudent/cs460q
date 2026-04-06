@@ -105,7 +105,9 @@
           "path": "instruction/gestalt-principles-in-ui-design/gestalt-principles-in-ui-design.md",
           "id": "c3002a39-b08a-45a3-bf35-bc01bc99cd01",
           "state": "published",
-          "description": "Demonstrate how principles like proximity, similarity, and continuity influence how users perceive visual groupings on a webpage."
+          "interactions": [],
+          "description": "Demonstrate how principles like proximity, similarity, and continuity influence how users perceive visual groupings on a webpage.",
+          "commit": "b6b3b5306d3e24f40609ad298a4651d106f82603"
         },
         {
           "title": "Affordances Signifiers and Feedback",
