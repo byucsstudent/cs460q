@@ -58,7 +58,11 @@ Our primary responsibility as designers is to eliminate extraneous load so that 
 To design for the human brain, we must adopt a "less is more" philosophy. Here are several practical strategies:
 
 **Avoid Information Overload**
-When a user lands on a page, they should be able to identify the primary call to action within seconds. If every element—banners, sidebars, pop-ups, and navigation—is competing for attention, the user's working memory becomes saturated, leading to "analysis paralysis."
+When a user lands on a page, they should be able to identify *the primary call to action* within seconds. If every element—banners, sidebars, pop-ups, and navigation—is competing for attention, the user's working memory becomes saturated, leading to "analysis paralysis."
+
+![noPrimaryCallToAction.png](noPrimaryCallToAction.png)
+
+> No primary call to action. _Source: Lycos.com_
 
 **Use Progressive Disclosure**
 Rather than showing every feature and option at once, use progressive disclosure. This involves showing only the information necessary for the current task and hiding advanced or secondary options behind "More" links or dropdown menus. This keeps the interface clean and prevents the user from being overwhelmed by choices.
