@@ -8,6 +8,8 @@ In the field of Human-Computer Interaction (HCI), we view the user as an informa
 
 Human memory is generally categorized into three distinct stages: sensory memory, short-term (or working) memory, and long-term memory. 
 
+![memory.png](memory.png)
+
 Sensory memory is the shortest-term element of memory. It acts as a buffer for stimuli received through the five senses. In web design, this is why "flicker" or sudden changes in UI can be so jarring; our sensory memory detects the change before our conscious mind can even identify what happened. However, for the purpose of interaction design, our primary focus remains on the transition between working memory and long-term memory.
 
 ### Working Memory and the Limits of "The Magic Number"
