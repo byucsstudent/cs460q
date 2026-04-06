@@ -53,6 +53,18 @@ Shneiderman’s work bridged the gap between complex computer science and intuit
 
 Shneiderman’s rules emphasize the importance of the user feeling in control. One of his most vital rules is "Offer informative feedback." For every user action, there should be a system response. If a user clicks a "Submit" button, the system must show a loading spinner or a success message. Without this, the user is left in a state of uncertainty.
 
+
+* **Strive for consistency**: Maintain uniform sequences of actions, identical terminology, and consistent visual layouts across the interface to reduce the user's cognitive load.
+* **Seek universal usability**: Design for a wide range of users by accounting for different levels of expertise, age ranges, and physical abilities, providing features like shortcuts for experts and guidance for novices.
+* **Offer informative feedback**: Ensure that every user action results in a clear system response, with the feedback's prominence scaled to the importance of the action.
+* **Design dialogs to yield closure**: Organize related actions into groups with a distinct beginning, middle, and end so users know when a task is successfully completed.
+* **Prevent errors**: Design the interface to minimize the possibility of user mistakes and provide simple, constructive instructions for recovery if an error does occur.
+* **Permit easy reversal of actions**: Ensure that actions are reversible whenever possible, which encourages exploration and reduces user anxiety by providing a "way out" of mistakes.
+* **Keep users in control**: Support an internal locus of control by making the user the initiator of actions rather than a passive responder to the system's prompts.
+* **Reduce short-term memory load**: Keep displays simple and consolidate multiple-page sequences so users are not required to remember information from one screen to the next.
+
+
+
 **Practical Example:** Consider a complex web form. Following Shneiderman’s rule of "Error Prevention," a developer should disable the "Submit" button until all required fields are filled correctly, rather than letting the user submit the form and then showing a list of errors.
 
 ## Common Challenges and Solutions
