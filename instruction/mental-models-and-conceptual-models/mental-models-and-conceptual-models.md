@@ -37,6 +37,9 @@ To align the user's mental model with the system's conceptual model, we must add
 
 **The Gulf of Evaluation** occurs after the user has performed an action and is trying to figure out what happened. Did the file save? Is the upload finished? We bridge this gap by providing immediate, clear **feedback**. If a user clicks "Submit" and the screen doesn't change for five seconds, their mental model might suggest the system has crashed, leading them to click the button repeatedly.
 
+![affordance.gif](affordance.gif)
+
+
 ### Practical Examples in Web Design
 
 Consider the evolution of the "Save" icon. For decades, the 3.5-inch floppy disk was the universal signifier for saving data. Today’s undergraduate students may have never seen a physical floppy disk, yet the mental model persists because of **external consistency**—the icon is used everywhere. However, as mental models shift, designers must decide whether to stick with the legacy icon or move toward a "Cloud" or "Checkmark" icon that better reflects modern conceptual models of auto-saving data.
