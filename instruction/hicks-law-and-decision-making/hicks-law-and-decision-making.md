@@ -41,7 +41,7 @@ Sometimes, the best way to help a user decide is to make the decision for them�
 
 ### Practical Examples in Web Design
 
-Consider the evolution of the "Mega Menu." Early web designs often featured massive dropdowns that covered half the screen with hundreds of links. Modern iterations of the mega menu use clear headings, iconography, and varying font weights to help the user's eye scan and categorize information quickly. By visually "weighting" certain options, designers help users ignore irrelevant choices, effectively reducing the value of $n$ in the Hick’s Law equation.
+Consider the evolution of the "Mega Menu." Early web designs often featured massive dropdowns that covered half the screen with hundreds of links. Modern iterations of the mega menu use clear headings, iconography, and varying font weights to help the user's eye scan and categorize information quickly. By visually "weighting" certain options, designers help users ignore irrelevant choices, effectively reducing the value of `n` in the Hick’s Law equation.
 
 Another example can be found in mobile app design. Due to limited screen real estate, mobile designers are forced to adhere to Hick’s Law. This is why many mobile apps use a "Hamburger" menu or a bottom tab bar with no more than five primary icons. These constraints actually improve the user experience by forcing the designer to prioritize the most essential actions, thereby speeding up user decision-making.
 
