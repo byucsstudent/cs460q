@@ -63,8 +63,6 @@ Shneiderman’s rules emphasize the importance of the user feeling in control. O
 * **Keep users in control**: Support an internal locus of control by making the user the initiator of actions rather than a passive responder to the system's prompts.
 * **Reduce short-term memory load**: Keep displays simple and consolidate multiple-page sequences so users are not required to remember information from one screen to the next.
 
-
-
 **Practical Example:** Consider a complex web form. Following Shneiderman’s rule of "Error Prevention," a developer should disable the "Submit" button until all required fields are filled correctly, rather than letting the user submit the form and then showing a list of errors.
 
 ## Common Challenges and Solutions
