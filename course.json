@@ -61,7 +61,7 @@
           "state": "published",
           "interactions": [],
           "description": "Explain the difference between a user's mental model and the system's conceptual model, and how to bridge the gap between them.",
-          "commit": "dac36533c44c2e369653aeef75398a6d01c80c55"
+          "commit": "e2dc4479c52c11814a8cbeb467c7f7e46b243715"
         },
         {
           "title": "The Seven Stages of Action",
