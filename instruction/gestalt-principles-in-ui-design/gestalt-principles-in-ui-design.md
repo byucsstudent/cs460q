@@ -42,6 +42,20 @@ One of the most frequent challenges in applying Gestalt principles is the "Confl
 
 Another challenge is accessibility. While Gestalt principles help sighted users perceive groups, these relationships must also be conveyed to users with visual impairments. A designer should never rely solely on visual grouping (like proximity) to imply a relationship. The underlying HTML structure (using semantic tags like `<fieldset>` or `<ul>`) ensures that the "Gestalt" of the page is also understood by screen readers.
 
+
+```masteryls
+{"id":"c9ea6d89-0714-4e5a-9f6e-c875a01baa13", "title":"Balancing Proximity and Similarity", "type":"multiple-choice"}
+A designer is creating a dense data table where all rows are spaced exactly 8px apart, creating a strong sense of unity through proximity. To help users quickly distinguish between "High Priority" and "Low Priority" rows without changing the table's layout or spacing, the designer applies a distinct background tint to all High Priority rows.
+
+Which statement best describes how Gestalt principles are being balanced in this design?
+
+- [ ] Proximity is used to break the similarity of the rows, ensuring that the user treats each row as an individual data point.
+- [x] Similarity is used to create functional sub-groups within a larger set that is already unified by proximity.
+- [ ] Continuity is used to override proximity, directing the user's eye to read the High Priority rows as a single continuous path.
+- [ ] Similarity is used to eliminate the effect of proximity, making the rows appear as if they are physically separated into two different tables.
+```
+
+
 ## Thoughtful Engagement: Analyzing the Interface
 
 To better understand these concepts, take a moment to look at a complex website you use daily, such as a news site or an e-commerce platform. Ask yourself the following questions:
