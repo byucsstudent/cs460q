@@ -34,10 +34,12 @@
           "state": "published",
           "interactions": [
             "10aa22d1-c484-413d-bcce-ecc914306703",
-            "73a4f196-5383-44fa-bb64-1e121a8e8502"
+            "73a4f196-5383-44fa-bb64-1e121a8e8502",
+            "95e2ac1e-70b6-41bd-9c2c-d48dad39f893",
+            "9b2d89ee-451f-4559-a36d-4cea05541940"
           ],
           "description": "Introduce the work of pioneers like Don Norman, Jakob Nielsen, and Ben Shneiderman, highlighting their core contributions to the field.",
-          "commit": "d15e7df556069dc66fd47f5e5a3c22209f40eea0"
+          "commit": "5c9f0dd70c477783a646c634fdca8d87aa48d08e"
         },
         {
           "title": "Human Cognition and Memory",
