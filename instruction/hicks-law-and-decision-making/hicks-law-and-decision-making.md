@@ -14,6 +14,18 @@ The most important takeaway for a designer is not the specific math, but the nat
 
 This law is rooted in the concept of "information capacity." Our brains can only process a certain amount of information at once. When presented with a sprawling navigation menu or a cluttered homepage, the user must first identify all the options, evaluate their relevance, and then select the best path. Each additional choice consumes mental energy, leading to "analysis paralysis" where the user becomes overwhelmed and may abandon the site entirely.
 
+
+```masteryls
+{"id":"c82ceb6d-7b1a-485b-9c30-9ad22503a75d", "title":"The Intuition of Hick's Law", "type":"multiple-choice"}
+Hick's Law describes the relationship between the number of choices available to a user and the time it takes them to make a decision. Which of the following best describes the underlying intuition for why this relationship is logarithmic rather than linear?
+
+- [ ] Users must evaluate every single option individually and sequentially, meaning that doubling the number of choices will always double the total decision time.
+- [x] Users tend to subdivide large sets of options into smaller categories or groups, narrowing their choice through a process of elimination similar to a binary search.
+- [ ] Users experience a "choice paralysis" threshold where, after five options, the decision time stops increasing and remains constant regardless of further additions.
+- [ ] Users make faster decisions as the number of options increases because the abundance of variety triggers an impulsive selection to avoid cognitive fatigue.
+```
+
+
 ### Strategies for Simplifying Complex Navigation
 
 In modern web development, we are often tasked with organizing vast amounts of content. While it is tempting to put everything "one click away" to ensure visibility, this often violates Hick’s Law and frustrates the user. To combat this, designers employ several strategies to manage complexity.
