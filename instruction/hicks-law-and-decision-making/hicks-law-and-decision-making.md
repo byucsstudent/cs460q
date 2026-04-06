@@ -63,6 +63,8 @@ To understand how these concepts interact, consider the following flow of a user
 
 ```mermaid
 graph TD
+    classDef default fill:#ffffff,stroke:#555555,stroke-width:2px,color:#000000;
+
     A[User Goal: Find 'Shipping Policy'] --> B{Visual Search}
     B -->|High Order/Grouping| C[Parallel Processing: Scan Headers]
     B -->|Low Order/Clutter| D[Serial Processing: Read Every Item]
