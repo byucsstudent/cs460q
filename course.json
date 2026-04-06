@@ -92,10 +92,11 @@
           "id": "497bf747-f2c2-4e59-ac99-870502725495",
           "state": "published",
           "interactions": [
+            "c82ceb6d-7b1a-485b-9c30-9ad22503a75d",
             "0cdfbe67-b088-4594-9ca8-1bbf92d2cf9e"
           ],
           "description": "Analyze how the number of choices affects user decision time and provide strategies for simplifying complex web navigation.",
-          "commit": "905df917e6356314dbc6f30ffa7da6cdefee0f10"
+          "commit": "c6a52b0554f60402ee29a95a88ac8da3c60632a5"
         },
         {
           "title": "Gestalt Principles in UI Design",
