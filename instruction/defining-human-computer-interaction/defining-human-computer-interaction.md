@@ -8,11 +8,14 @@ HCI is concerned with the entire "dialogue" between the user and the machine. Th
 
 HCI is inherently multidisciplinary because no single field can fully account for the complexity of human behavior or the rapid evolution of technology. To build effective digital experiences, we must draw from several distinct areas of study:
 
+![multidisciplinary.png](multidisciplinary.png)
+
 *   **Computer Science:** Provides the technical foundation. It involves the engineering of software, the capabilities of hardware, and the implementation of algorithms that make interaction possible.
 *   **Cognitive Psychology:** This is perhaps the most critical "human" element. It helps us understand human perception, memory, attention, and problem-solving. By understanding the limitations of the human brain—such as how many items we can hold in short-term memory—developers can design interfaces that do not overwhelm the user.
 *   **Design:** Beyond aesthetics, design in HCI focuses on "affordances" (clues about how an object should be used) and visual hierarchy. It ensures that the most important information is seen first and that the interface is intuitive.
 *   **Sociology and Anthropology:** These fields help us understand the context of use. Computers are rarely used in a vacuum; they are used in offices, homes, and public spaces. Understanding social dynamics helps in designing collaborative tools and social media platforms.
 *   **Ergonomics:** While often associated with physical chairs or keyboards, digital ergonomics involves reducing "cognitive friction" and ensuring that the physical interactions (like clicking or swiping) are comfortable and efficient.
+
 
 ## The Evolution of HCI: From Mainframes to the Modern Web
 
@@ -35,6 +38,8 @@ In web development, HCI principles manifest in every decision you make. Consider
 Imagine a user trying to purchase a product.
 *   **Bad HCI:** A single, massive form with 20 fields, no validation until the "Submit" button is clicked, and a "Clear Form" button placed right next to "Submit."
 *   **Good HCI:** A multi-step process (reducing cognitive load), real-time validation (providing immediate feedback), and a clear visual hierarchy that emphasizes the "Continue" action while de-emphasizing "Cancel."
+
+![designDecisionFatiguePizza.gif](designDecisionFatiguePizza.gif)
 
 By applying HCI, you transition from being a coder who "makes things work" to a developer who "makes things usable."
 
