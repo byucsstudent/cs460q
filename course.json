@@ -99,7 +99,9 @@
           "path": "instruction/affordances-signifiers-and-feedback/affordances-signifiers-and-feedback.md",
           "id": "1a581d39-0417-41a4-b1f5-e62e90d052fe",
           "state": "published",
-          "description": "Define affordances and signifiers in a digital context and explain why immediate feedback is critical for user confidence."
+          "interactions": [],
+          "description": "Define affordances and signifiers in a digital context and explain why immediate feedback is critical for user confidence.",
+          "commit": "ac3f0f489381140740674f46de6d12ef6f173979"
         }
       ]
     },
