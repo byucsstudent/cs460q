@@ -22,6 +22,8 @@ Common digital signifiers include:
 
 Without clear signifiers, users are forced to "mine-sweep" the screen, hovering their mouse over every element to see if the cursor changes—a clear sign of a failure in interface communication.
 
+![designAnimationIcon.gif](designAnimationIcon.gif)
+
 ### Closing the Loop with Feedback
 
 If affordances tell us what is possible and signifiers tell us where to act, **feedback** tells us what happened. Feedback is the requirement that the system communicates the results of an action back to the user. It is the most critical component for building user confidence.
