@@ -38,10 +38,11 @@ In a web interface, we use this principle to manage the user’s attention. When
 
 ## Common Challenges and Solutions
 
+Although Gestalt can solve many problems by leveraging the minds natural pattern matching and grouping, it can also introduce new problems.
+
+### Conflict of Principles
+
 One of the most frequent challenges in applying Gestalt principles is the "Conflict of Principles." For example, you might place elements close together (Proximity) to show they are related, but give them vastly different colors (Similarity). This creates visual confusion. To solve this, designers must establish a visual hierarchy where one principle reinforces another rather than contradicting it.
-
-Another challenge is accessibility. While Gestalt principles help sighted users perceive groups, these relationships must also be conveyed to users with visual impairments. A designer should never rely solely on visual grouping (like proximity) to imply a relationship. The underlying HTML structure (using semantic tags like `<fieldset>` or `<ul>`) ensures that the "Gestalt" of the page is also understood by screen readers.
-
 
 ```masteryls
 {"id":"c9ea6d89-0714-4e5a-9f6e-c875a01baa13", "title":"Balancing Proximity and Similarity", "type":"multiple-choice"}
@@ -54,6 +55,13 @@ Which statement best describes how Gestalt principles are being balanced in this
 - [ ] Continuity is used to override proximity, directing the user's eye to read the High Priority rows as a single continuous path.
 - [ ] Similarity is used to eliminate the effect of proximity, making the rows appear as if they are physically separated into two different tables.
 ```
+
+### Accessibility
+
+Another challenge is accessibility. While Gestalt principles help sighted users perceive groups, these relationships must also be conveyed to users with visual impairments. A designer should never rely solely on visual grouping (like proximity) to imply a relationship. The underlying HTML structure (using semantic tags like `<fieldset>` or `<ul>`) ensures that the "Gestalt" of the page is also understood by screen readers.
+
+
+
 
 
 ## Thoughtful Engagement: Analyzing the Interface
