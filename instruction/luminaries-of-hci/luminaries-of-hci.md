@@ -22,6 +22,21 @@ If Don Norman is the philosopher of the field, Jakob Nielsen is its most promine
 
 Nielsen’s most enduring contribution is the **10 Usability Heuristics for User Interface Design**. These are broad rules of thumb rather than specific usability guidelines. They include principles like "Visibility of system status" (always keep users informed about what is going on) and "Consistency and standards" (users should not have to wonder whether different words, situations, or actions mean the same thing).
 
+
+
+### 10 Usability Heuristics for User Interface Design
+
+1.  **Visibility of system status:** The system should always keep users informed about what is going on through appropriate feedback within a reasonable time.
+2.  **Match between system and the real world:** The system should speak the users' language, using words, phrases, and concepts familiar to the user, rather than internal system-oriented terms.
+3.  **User control and freedom:** Users often perform actions by mistake. They need a clearly marked "emergency exit" to leave the unwanted state without having to go through an extended process.
+4.  **Consistency and standards:** Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow established platform and industry conventions.
+5.  **Error prevention:** Even better than good error messages is a careful design which prevents a problem from occurring in the first place. Either eliminate error-prone conditions or check for them and present users with a confirmation option before they commit to the action.
+6.  **Recognition rather than recall:** Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another.
+7.  **Flexibility and efficiency of use:** Shortcuts—hidden from novice users—may speed up the interaction for the expert user such that the design can cater to both inexperienced and experienced users.
+8.  **Aesthetic and minimalist design:** Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information competes with the relevant units of information and diminishes their visibility.
+9.  **Help users recognize, diagnose, and recover from errors:** Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution.
+10. **Help and documentation:** It’s best if the system is so usable that it doesn't need documentation. However, it may be necessary to provide documentation that is easy to search, focused on the user's task, and lists concrete steps to be carried out.
+
 ### Core Contributions: Web Usability and Reading Patterns
 
 Nielsen was one of the first to apply HCI principles specifically to the World Wide Web. His research using eye-tracking technology revealed that users rarely read web pages word-for-word; instead, they scan in an "F-shaped pattern." This discovery fundamentally changed how we structure content, leading to the use of bold headings, bulleted lists, and placing the most important information at the top-left of the screen.
