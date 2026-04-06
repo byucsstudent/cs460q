@@ -79,11 +79,9 @@
           "path": "instruction/fittss-law-and-interaction-speed/fittss-law-and-interaction-speed.md",
           "id": "416fa8cc-f4b7-4f33-bcb6-1e4bda734270",
           "state": "published",
-          "interactions": [
-            "83e5b8de-57cd-44ac-b066-f7f930244221"
-          ],
+          "interactions": [],
           "description": "Explain Fitts's Law and its practical application in sizing and placing interactive elements like buttons and menus.",
-          "commit": "5165503dac50317b641ce1500579414a6fb2c45e"
+          "commit": "9ef997e421fbf42c569176cccda15423d5655647"
         },
         {
           "title": "Hicks Law and Decision Making",
@@ -91,9 +89,7 @@
           "path": "instruction/hicks-law-and-decision-making/hicks-law-and-decision-making.md",
           "id": "497bf747-f2c2-4e59-ac99-870502725495",
           "state": "published",
-          "interactions": [],
-          "description": "Analyze how the number of choices affects user decision time and provide strategies for simplifying complex web navigation.",
-          "commit": "f7af4cb27d9fe5399a4e59d9d51b0cdb84104732"
+          "description": "Analyze how the number of choices affects user decision time and provide strategies for simplifying complex web navigation."
         },
         {
           "title": "Gestalt Principles in UI Design",
