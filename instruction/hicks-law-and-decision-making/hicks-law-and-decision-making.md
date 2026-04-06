@@ -55,7 +55,17 @@ Hick’s Law is a fundamental principle of HCI that reminds us that every additi
 
 By respecting the human mind's processing limits, you create experiences that feel "fast" and "effortless," regardless of the underlying technical performance of the site.
 
-***
+
+```masteryls
+{"id":"0cdfbe67-b088-4594-9ca8-1bbf92d2cf9e", "title":"Simplifying Navigation with Hick's Law", "type":"multiple-choice"}
+Based on Hick's Law and principles of information architecture, which strategy is most effective for reducing a user's decision time when navigating a complex website?
+
+- [ ] Presenting all possible navigation links on the homepage to minimize the total number of clicks required
+- [x] Organizing links into clear categories and using progressive disclosure to hide secondary options
+- [ ] Removing all descriptive labels and relying solely on high-resolution icons to save visual space
+- [ ] Increasing the number of top-level menu items to ensure that no sub-menu contains more than two links
+```
+
 
 **Reflective Exercise:**
 *Find a website you use frequently that feels "cluttered" or "confusing." Identify a specific section (like the navigation or a form) and count the number of choices presented to you at once. How could you apply progressive disclosure or categorization to reduce the decision time for a new user?*
