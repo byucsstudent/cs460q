@@ -79,9 +79,11 @@
           "path": "instruction/fittss-law-and-interaction-speed/fittss-law-and-interaction-speed.md",
           "id": "416fa8cc-f4b7-4f33-bcb6-1e4bda734270",
           "state": "published",
-          "interactions": [],
+          "interactions": [
+            "83e5b8de-57cd-44ac-b066-f7f930244221"
+          ],
           "description": "Explain Fitts's Law and its practical application in sizing and placing interactive elements like buttons and menus.",
-          "commit": "9ef997e421fbf42c569176cccda15423d5655647"
+          "commit": "748608b837c9c7241f2d6c9c6f7f5db00114c155"
         },
         {
           "title": "Hicks Law and Decision Making",
