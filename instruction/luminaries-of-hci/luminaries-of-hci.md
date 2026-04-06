@@ -6,6 +6,9 @@ Understanding these luminaries is not just a history lesson; it is a way to inte
 
 ## Don Norman: The Psychologist of Design
 
+![donNorman.jpeg](donNorman.jpeg)
+> Don Norman - _Linkedin.com_
+
 Don Norman is perhaps the most recognizable name in HCI, often referred to as the "father of User Experience (UX)." With a background in cognitive science and psychology, Norman shifted the focus of design from the technical capabilities of a device to the mental models of the person using it.
 
 His seminal book, *The Design of Everyday Things*, introduced concepts that are now foundational to web design. Norman’s core argument is that if a user cannot figure out how to use a product, it is the fault of the design, not the user. He popularized the term "User-Centered Design" (UCD), advocating for a process where the user's needs, wants, and limitations are given extensive attention at each stage of the design process.
@@ -94,8 +97,32 @@ A common challenge for new developers is the "Expert Blindness" trap. When you b
 *   **Use Nielsen’s Heuristics:** Does your site use standard icons (like a magnifying glass for search) that users already recognize?
 *   **Use Shneiderman’s Feedback:** Does the UI react immediately when a user interacts with it?
 
+
+```masteryls
+{"id":"95e2ac1e-70b6-41bd-9c2c-d48dad39f893", "title":"Overcoming Expert Blindness", "type":"multiple-choice"}
+When designers become too familiar with their own creations, they often suffer from "expert blindness," failing to see where a novice might struggle. According to the principles established by pioneers like Jakob Nielsen, what is the most effective way to counteract this bias during the design process?
+
+- [ ] Increasing the density of documentation and help text to ensure every feature is explained in detail
+- [x] Conducting usability testing with a small number of representative users to observe their actual behavior
+- [ ] Relying on the designer's internal mental models to predict and preempt potential user errors
+- [ ] Restricting the interface to Ben Shneiderman’s "Direct Manipulation" techniques exclusively for advanced users
+```
+
+
 Another challenge is balancing aesthetics with usability. Developers often want to use "clean" or "minimalist" designs that hide navigation or use low-contrast text. 
 *   **The Solution:** Remember Nielsen’s rule on "Visibility of system status." If a user has to hunt for a menu, the design has failed, no matter how beautiful it looks.
+
+
+```masteryls
+{"id":"9b2d89ee-451f-4559-a36d-4cea05541940", "title":"Aesthetics vs. Usability Balance", "type":"multiple-choice"}
+According to the principles established by HCI pioneers like Don Norman and Jakob Nielsen, what is the most effective way to balance aesthetic appeal with functional usability?
+
+- [ ] Prioritize "visceral" design above all else, as Don Norman argues that users will automatically overlook functional flaws if the interface is sufficiently beautiful.
+- [ ] Eliminate all non-essential visual elements to strictly follow Jakob Nielsen's heuristic of minimalist design, ensuring the interface remains purely utilitarian and text-heavy.
+- [x] Use aesthetic elements to create a positive emotional response and a clear visual hierarchy, ensuring that decorative choices do not compete with or obscure functional information.
+- [ ] Apply Ben Shneiderman’s "Eight Golden Rules" by ensuring every possible system command is represented by a unique, high-fidelity icon to maximize visual variety and engagement.
+```
+
 
 ## Summary
 
