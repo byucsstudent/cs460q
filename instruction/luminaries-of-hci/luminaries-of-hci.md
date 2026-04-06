@@ -17,6 +17,8 @@ His seminal book, *The Design of Everyday Things*, introduced concepts that are 
 
 Norman introduced the concepts of **affordances** and **signifiers**. An affordance is a relationship between an object and a person; it is what the object *can* do (e.g., a button "affords" clicking). A signifier is the visual cue that tells the user *where* and *how* to act (e.g., the shadow or color of that button).
 
+[Affordances](../mental-models-and-conceptual-models/affordance.gif)
+
 **Practical Example:** In web development, a blue, underlined string of text is a signifier that tells the user the text affords the action of clicking. If you design a website where plain black text is clickable but has no visual signifier, you have created a "Norman Door"—a design that confuses the user by hiding its function.
 
 
