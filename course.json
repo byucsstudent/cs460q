@@ -19,9 +19,12 @@
           "path": "instruction/defining-human-computer-interaction/defining-human-computer-interaction.md",
           "id": "efb4d40d-704b-42bc-9bed-c36f9341a828",
           "state": "published",
-          "interactions": [],
+          "interactions": [
+            "486c4755-b9cc-4cae-9f4c-87243777aea9",
+            "678b68b0-a17f-4862-b805-d76e3af331c9"
+          ],
           "description": "Explain the multidisciplinary nature of HCI and its evolution from early computing to the modern web era.",
-          "commit": "c55b6854a5077c052957588af3f4724705db1bc4"
+          "commit": "5aa8c26a68a85303c1361c94b058ab99cd35321d"
         },
         {
           "title": "Luminaries of HCI",
