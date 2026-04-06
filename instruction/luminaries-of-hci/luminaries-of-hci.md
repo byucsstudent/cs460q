@@ -16,6 +16,18 @@ Norman introduced the concepts of **affordances** and **signifiers**. An afforda
 
 **Practical Example:** In web development, a blue, underlined string of text is a signifier that tells the user the text affords the action of clicking. If you design a website where plain black text is clickable but has no visual signifier, you have created a "Norman Door"—a design that confuses the user by hiding its function.
 
+
+```masteryls
+{"id":"10aa22d1-c484-413d-bcce-ecc914306703", "title":"Affordances and Signifiers", "type":"multiple-choice"}
+In his seminal work *The Design of Everyday Things*, Don Norman distinguishes between "affordances" (what an object can do) and "signifiers" (signals that communicate where the action should take place). Which of the following scenarios best illustrates a well-designed **signifier** that correctly communicates an **affordance**?
+
+- [ ] A sleek, handle-less glass door that requires the user to guess whether to push or pull.
+- [x] A flat metal plate fixed to the side of a door, indicating the surface should be pushed to open it.
+- [ ] A vertical "D-shaped" handle on a door that must be pushed forward to open.
+- [ ] A digital icon that looks like a printer but performs a "Save as PDF" action when clicked.
+```
+
+
 ## Jakob Nielsen: The King of Usability
 
 If Don Norman is the philosopher of the field, Jakob Nielsen is its most prominent practitioner. A co-founder of the Nielsen Norman Group alongside Norman, Nielsen is famous for his "discount usability engineering" movement, which argues that usability testing doesn't have to be expensive or complex to be effective.
