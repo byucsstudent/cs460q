@@ -70,6 +70,8 @@ Rather than showing every feature and option at once, use progressive disclosure
 **Leverage Existing Mental Models**
 Users spend most of their time on *other* websites. This means they have already developed "mental models" for how a website works. If you place your search bar in the top right or your logo in the top left, you are leveraging their long-term memory. If you deviate from these conventions without a very good reason, you increase the cognitive load because the user must stop and think about how to use your specific site.
 
+![designConsistencyHolyGrail.jpg](designConsistencyHolyGrail.jpg)
+
 ### Common Challenges and Solutions
 
 **Challenge: The "Wall of Text"**
