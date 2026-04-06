@@ -105,13 +105,16 @@ In the example below, we compare a "flat" navigation structure that maximizes co
 <nav>
   <div class="category">
     <h3>Shop</h3>
-    <a href="/shoes">Shoes</a> <a href="/shirts">Shirts</a>
-    <a href="/pants">Pants</a> <a href="/hats">Hats</a>
+    <a href="/shoes">Shoes</a>
+    <a href="/shirts">Shirts</a>
+    <a href="/pants">Pants</a>
+    <a href="/hats">Hats</a>
     <a href="/jackets">Jackets</a>
   </div>
   <div class="category">
     <h3>Help</h3>
-    <a href="/returns">Returns</a> <a href="/support">Support</a>
+    <a href="/returns">Returns</a>
+    <a href="/support">Support</a>
     <a href="/tracking">Tracking</a>
   </div>
 </nav>
