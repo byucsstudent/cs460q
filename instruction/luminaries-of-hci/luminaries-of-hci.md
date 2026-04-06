@@ -61,6 +61,18 @@ Shneiderman’s rules emphasize the importance of the user feeling in control. O
 
 **Practical Example:** Consider a complex web form. Following Shneiderman’s rule of "Error Prevention," a developer should disable the "Submit" button until all required fields are filled correctly, rather than letting the user submit the form and then showing a list of errors.
 
+
+```masteryls
+{"id":"73a4f196-5383-44fa-bb64-1e121a8e8502", "title":"Shneiderman's Principle of Closure", "type":"multiple-choice"}
+Ben Shneiderman’s "Eight Golden Rules of Interface Design" includes the principle of designing dialogs to yield closure. Which of the following scenarios best demonstrates the correct application of this principle?
+
+- [ ] A system that provides a real-time progress bar while a large file is being uploaded to the cloud.
+- [ ] An interface that uses consistent icons and terminology across all menus to reduce the user's cognitive load.
+- [x] A multi-step registration form that displays a final "Account Created" summary page, signaling the user can move on to a new task.
+- [ ] A data-entry application that allows expert users to bypass standard menus using custom keyboard macros.
+```
+
+
 ## Common Challenges and Solutions
 
 A common challenge for new developers is the "Expert Blindness" trap. When you build a system, you know exactly how it works, making it difficult to see where a novice might struggle.
