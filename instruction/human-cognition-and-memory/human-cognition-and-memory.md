@@ -14,7 +14,7 @@ Sensory memory is the shortest-term element of memory. It acts as a buffer for s
 
 Working memory is the mental workspace where we temporarily hold and manipulate information. It is active and conscious, but it is also incredibly fragile. If a user is interrupted while trying to remember a discount code to enter at checkout, that information is often lost almost instantly.
 
-In 1956, cognitive psychologist George Miller published one of the most cited papers in psychology, suggesting that the number of objects an average human can hold in working memory is $7 \pm 2$. This is often referred to as "Miller’s Law." While modern research suggests that the number of "chunks" we can hold may actually be smaller (closer to 4 or 5) depending on the complexity of the information, the principle for web designers remains the same: do not overwhelm the user's temporary storage.
+In 1956, cognitive psychologist George Miller published one of the most cited papers in psychology, suggesting that the number of objects an average human can hold in working memory is 7 ±2. This is often referred to as "Miller’s Law." While modern research suggests that the number of "chunks" we can hold may actually be smaller (closer to 4 or 5) depending on the complexity of the information, the principle for web designers remains the same: do not overwhelm the user's temporary storage.
 
 **Practical Example: Information Chunking**
 Consider a credit card input field. A string of 16 digits (1234567812345678) is nearly impossible to hold in working memory at once. However, by "chunking" the data into four groups (1234 5678 1234 5678), we reduce the cognitive burden. The user no longer has to remember sixteen individual items; they only need to process four chunks.
