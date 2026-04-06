@@ -91,7 +91,9 @@
           "path": "instruction/hicks-law-and-decision-making/hicks-law-and-decision-making.md",
           "id": "497bf747-f2c2-4e59-ac99-870502725495",
           "state": "published",
-          "description": "Analyze how the number of choices affects user decision time and provide strategies for simplifying complex web navigation."
+          "interactions": [],
+          "description": "Analyze how the number of choices affects user decision time and provide strategies for simplifying complex web navigation.",
+          "commit": "fb5254fd89d63e0e630ea52cfa4a12914967fde0"
         },
         {
           "title": "Gestalt Principles in UI Design",
