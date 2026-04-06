@@ -47,9 +47,11 @@
           "path": "instruction/human-cognition-and-memory/human-cognition-and-memory.md",
           "id": "0c9e59f0-dfe5-4324-9787-cfeada701856",
           "state": "published",
-          "interactions": [],
+          "interactions": [
+            "ee1654ee-88f6-4e60-a111-4e9df0e1afb9"
+          ],
           "description": "Describe how short-term and long-term memory affect user performance and how to design for limited cognitive load.",
-          "commit": "f855c75ee04d65303031c2e7f5e3c4f4a62591fb"
+          "commit": "afcfb91255194b629ff4610368664155360e227f"
         },
         {
           "title": "Mental Models and Conceptual Models",
