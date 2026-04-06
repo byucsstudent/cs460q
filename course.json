@@ -93,10 +93,11 @@
           "state": "published",
           "interactions": [
             "c82ceb6d-7b1a-485b-9c30-9ad22503a75d",
+            "hicks-law-cog-load",
             "0cdfbe67-b088-4594-9ca8-1bbf92d2cf9e"
           ],
           "description": "Analyze how the number of choices affects user decision time and provide strategies for simplifying complex web navigation.",
-          "commit": "33eb735b769748843f6c8f9630bb5568f6d6f3ff"
+          "commit": "ccb3ff02a4bcca984f1c3f7a8940e689a6f96457"
         },
         {
           "title": "Gestalt Principles in UI Design",
