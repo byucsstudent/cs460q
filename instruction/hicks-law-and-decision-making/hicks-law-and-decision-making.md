@@ -6,7 +6,7 @@ Hick’s Law is the scientific foundation for the "less is more" philosophy. It 
 
 ### The Mathematical Foundation and Logic
 
-The core of Hick’s Law is expressed through a logarithmic formula: $RT = a + b \log_2(n)$. In this equation, $RT$ is the reaction time, $n$ is the number of equally probable choices, and $a$ and $b$ are constants based on the context of the task. 
+The core of Hick’s Law is expressed through a logarithmic formula: `RT = a + b \log_2(n)`. In this equation, `RT` is the reaction time, `n` is the number of equally probable choices, and `a` and `b` are constants based on the context of the task. 
 
 The most important takeaway for a designer is not the specific math, but the nature of the curve. Because the relationship is logarithmic rather than linear, the impact of adding choices is most dramatic when moving from a few options to several. For example, adding two more options to a menu of three has a much larger impact on decision time than adding two more options to a menu of fifty. 
 
