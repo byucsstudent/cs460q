@@ -35,6 +35,8 @@ Effective feedback should be:
 *   **Informative:** It should tell the user not just *that* something happened, but *what* happened (e.g., "Message Sent" vs. "Error: Invalid Email").
 *   **Proportional:** A minor action (hovering over a link) should have minor feedback (a color change), while a major action (deleting an account) requires significant feedback (a confirmation modal).
 
+![affordance.gif](affordance.gif)
+
 ### Practical Examples in Web Design
 
 To see these principles in action, let’s look at a standard web form. 
