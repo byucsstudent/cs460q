@@ -4,6 +4,8 @@ When we look at a webpage, our brains do not perceive a chaotic collection of in
 
 The word *Gestalt* roughly translates to "form" or "shape" in German. The core philosophy is often summarized by the phrase: "The whole is other than the sum of its parts." For a UI designer, this means that the relationship between elements is often more important than the elements themselves. By understanding how the human eye naturally groups objects, we can create layouts that feel intuitive, reduce "visual noise," and guide the user toward their goals.
 
+![gestalt.gif](gestalt.gif)
+
 ## The Principle of Proximity
 
 Proximity is perhaps the most powerful Gestalt principle in web design. It states that objects that are close to each other are perceived as a related group, while objects that are far apart are seen as independent.
