@@ -47,11 +47,12 @@ By applying HCI, you transition from being a coder who "makes things work" to a 
 
 One of the greatest challenges in HCI is the **"Designer's Blindness."** As the creator of an application, you know exactly how it works. This makes it impossible for you to see the interface with the "fresh eyes" of a first-time user.
 
-*   **The Challenge:** Feature Creep. Adding too many features can clutter the interface, making it difficult for users to find the core functionality.
-*   **The Solution:** Use User-Centered Design (UCD). Regularly test your site with real users who have no prior knowledge of the project. Observe where they click, where they hesitate, and where they fail.
 
-*   **The Challenge:** Designing for the "Average" User. There is no such thing as an average user. Users have different physical abilities, varying levels of technical literacy, and different cultural backgrounds.
-*   **The Solution:** Prioritize Accessibility (A11y). Use semantic HTML, ensure high color contrast, and provide text alternatives for non-text content. HCI teaches us that an accessible design is a better design for everyone.
+
+| Challenge | Description | Solution  |
+|----------|----------|----------|
+| Feature Creep |Adding too many features can clutter the interface, making it difficult for users to find the core functionality. | Use User-Centered Design (UCD). Regularly test your site with real users who have no prior knowledge of the project. Observe where they click, where they hesitate, and where they fail. |
+| Designing for the "Average" User. | There is no such thing as an average user. Users have different physical abilities, varying levels of technical literacy, and different cultural backgrounds. | Prioritize Accessibility (A11y). Use semantic HTML, ensure high color contrast, and provide text alternatives for non-text content. HCI teaches us that an accessible design is a better design for everyone. |
 
 ## Engaging with the Material
 
