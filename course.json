@@ -69,7 +69,9 @@
           "path": "instruction/the-seven-stages-of-action/the-seven-stages-of-action.md",
           "id": "dd827f2c-1700-4a46-a445-5c8b7646b351",
           "state": "published",
-          "description": "Detail Don Norman's stages of action, focusing on the Gulf of Execution and the Gulf of Evaluation in web interfaces."
+          "interactions": [],
+          "description": "Detail Don Norman's stages of action, focusing on the Gulf of Execution and the Gulf of Evaluation in web interfaces.",
+          "commit": "22d2e31dad1bc83bc5dc9d3948fb2d4768888daf"
         },
         {
           "title": "Fittss Law and Interaction Speed",
