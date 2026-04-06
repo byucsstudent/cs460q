@@ -60,6 +60,18 @@ To better understand these concepts, consider the software you use daily. Open a
 
 By observing these interactions, you will begin to see Fitts’s Law in action everywhere, from the giant "Order Now" buttons on e-commerce sites to the tiny "X" icons on intrusive advertisements (which purposefully violate Fitts's Law to make them harder to click).
 
+
+```masteryls
+{"id":"83e5b8de-57cd-44ac-b066-f7f930244221", "title":"Challenges to Fitts's Law Application", "type":"multiple-choice"}
+Fitts's Law predicts the time required to move to a target based on the target's size and its distance from the starting point. Which of the following web design factors most directly frustrates this law by making the "distance" and "size" variables unpredictable for the user?
+
+- [ ] The use of a minimalist aesthetic that reduces the number of visual cues on the page
+- [x] Dynamic layout shifts that move an element's position while the user is in the process of pointing
+- [ ] Choosing a color palette with low contrast between the button text and its background
+- [ ] Implementing a responsive design that changes the layout based on the device's screen orientation
+```
+
+
 ## Summary
 
 Fitts’s Law provides a scientific lens through which we can evaluate the efficiency of our user interfaces. By remembering that movement time is a balance of distance and size, we can make informed decisions that directly impact user productivity and satisfaction.
