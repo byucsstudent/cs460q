@@ -67,7 +67,6 @@ Don Norman’s Seven Stages of Action provide a framework for understanding the 
 
 Bridging the Gulf of Execution requires making the possible actions visible and intuitive. Bridging the Gulf of Evaluation requires making the results of those actions immediate and understandable. When both gulfs are bridged, the technology becomes "invisible," allowing the user to focus entirely on their goal rather than the tool they are using to achieve it.
 
-***
 
 **Suggested Engagement:**
 Observe your own behavior the next time you use a new mobile app. At which stage do you feel the most hesitation? Is it because you don't know where to click (Execution), or because you aren't sure if your click worked (Evaluation)? Mapping your own frustrations to these seven stages is the first step toward becoming a more empathetic designer.
