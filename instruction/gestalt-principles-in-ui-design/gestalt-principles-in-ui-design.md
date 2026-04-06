@@ -17,6 +17,7 @@ In UI design, proximity is used to create logical relationships without the need
 The principle of similarity suggests that our brains group elements together if they share similar visual characteristics, such as color, shape, size, or orientation. 
 
 Consider a navigation menu. If all the links are styled with the same font, color, and weight, the user immediately recognizes them as having a similar function. Conversely, if one link is styled as a bright blue button while the others are simple black text, the principle of similarity is broken to create "anomaly." This anomaly draws the user’s eye, which is why we use distinct styling for Primary Call-to-Action (CTA) buttons. Designers must be careful, however; if elements with different functions look too similar, users may misinterpret their purpose, leading to "false affordances."
+![proximityAndSimilarity.png](proximityAndSimilarity.png)
 
 ## The Principle of Continuity
 
