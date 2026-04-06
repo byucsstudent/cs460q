@@ -20,25 +20,27 @@ Bridging this gulf requires immediate and clear feedback. In web design, this mi
 
 To better understand how these gulfs manifest, we can break the user's journey into seven distinct stages. While we often think of these as a linear sequence, users frequently jump back and forth between them as they learn a new interface.
 
-### Forming the Goal
+![sevenStages.png](sevenStages.png)
+
+### 1. Forming the Goal
 The process begins with a high-level objective. This is often abstract, such as "I want to find a new laptop." At this stage, the user isn't thinking about buttons or pixels; they are focused on their own needs.
 
-### Planning the Action
+### 2. Planning the Action
 The user translates their goal into a specific plan. They might think, "I will go to an electronics retailer’s website and use the search bar." This is where the user's mental model of how the web works comes into play.
 
-### Specifying the Action Sequence
+### 3. Specifying the Action Sequence
 The plan is further refined into physical movements. The user decides to move their cursor to the search input field, type "MacBook Pro," and press the "Enter" key.
 
-### Performing the Action
+### 4. Performing the Action
 The user executes the sequence. They physically interact with the hardware (mouse, keyboard, or touchscreen) to manipulate the interface. This is the final step in the Gulf of Execution.
 
-### Perceiving the State of the World
+### 5. Perceiving the State of the World
 Once the action is performed, the user looks for a change. They see the screen flicker, a new page load, or a list of search results appear. This is the first step in the Gulf of Evaluation.
 
-### Interpreting the Perception
+### 6. Interpreting the Perception
 The user tries to make sense of what they see. They look at the search results and determine if the items listed are indeed laptops or just accessories. They process the visual information provided by the UI.
 
-### Comparing the Outcome with the Goal
+### 7. Comparing the Outcome with the Goal
 Finally, the user asks, "Is this what I wanted?" If the search results show the laptop they were looking for, the goal is satisfied. If the results are empty, the user restarts the cycle with a new plan.
 
 ## Practical Application in Web Interfaces
