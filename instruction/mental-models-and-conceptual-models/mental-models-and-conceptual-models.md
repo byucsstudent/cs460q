@@ -27,6 +27,10 @@ If the System Image is confusing or inconsistent, the user will form a flawed me
 
 ### Bridging the Gap: The Gulfs of Execution and Evaluation
 
+![mentalModels.png](mentalModels.png)
+
+
+
 To align the user's mental model with the system's conceptual model, we must address what Don Norman calls the two "Gulfs."
 
 **The Gulf of Execution** occurs when a user wants to do something but doesn't know how to make the system do it. For example, a user wants to save a file but cannot find a "Save" icon. To bridge this gap, designers use **affordances** and **signifiers** to make actions obvious.
