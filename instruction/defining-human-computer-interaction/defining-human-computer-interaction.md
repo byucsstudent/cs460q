@@ -30,6 +30,19 @@ The late 1970s and 80s saw the birth of the Graphical User Interface (GUI), pion
 ### The Modern Web and Ubiquitous Computing
 The rise of the World Wide Web in the 1990s and the mobile revolution of the 2000s changed the landscape again. Interaction is no longer limited to a desktop. We now design for "ubiquitous computing," where the interface might be a 6-inch smartphone, a 27-inch monitor, or a voice-activated smart speaker. For web developers, this means moving away from static layouts toward responsive, fluid designs that prioritize accessibility and context.
 
+
+
+```masteryls
+{"id":"486c4755-b9cc-4cae-9f4c-87243777aea9", "title":"HCI Evolution and Focus", "type":"multiple-choice"}
+How did the primary focus of Human-Computer Interaction (HCI) shift as it evolved from the era of early mainframe computing to the modern web and mobile era?
+
+- [ ] From a focus on social psychology and group dynamics to a narrow technical focus on hardware processing speeds.
+- [ ] From developing high-level programming languages for experts to focusing exclusively on the aesthetic visual design of hardware peripherals.
+- [x] From optimizing machine efficiency and batch processing to enhancing user experience, accessibility, and the social context of use.
+- [ ] From studying physical ergonomics in keyboard layouts to focusing solely on increasing the raw data throughput of network protocols.
+```
+
+
 ## HCI in Web Development: Practical Examples
 
 In web development, HCI principles manifest in every decision you make. Consider the difference between a standard HTML `<button>` and a div styled to look like a button. A native button provides built-in HCI benefits: it is keyboard-accessible by default, it provides visual feedback when pressed, and it signals its purpose to screen readers.
@@ -53,6 +66,7 @@ One of the greatest challenges in HCI is the **"Designer's Blindness."** As the 
 *   **The Challenge:** Designing for the "Average" User. There is no such thing as an average user. Users have different physical abilities, varying levels of technical literacy, and different cultural backgrounds.
 *   **The Solution:** Prioritize Accessibility (A11y). Use semantic HTML, ensure high color contrast, and provide text alternatives for non-text content. HCI teaches us that an accessible design is a better design for everyone.
 
+
 ## Engaging with the Material
 
 As you move through this course, stop and observe the websites you use daily. Ask yourself:
@@ -61,6 +75,18 @@ As you move through this course, stop and observe the websites you use daily. As
 3.  Are the labels on this navigation menu clear, or do they use "insider" jargon that I don't understand?
 
 Thoughtful engagement with these questions will help you internalize the principles of HCI before you even write your first line of CSS for a project.
+
+
+```masteryls
+{"id":"678b68b0-a17f-4862-b805-d76e3af331c9", "title":"Strategic Benefits of HCI Knowledge", "type":"multiple-choice"}
+How does understanding the multidisciplinary evolution of Human-Computer Interaction (HCI) benefit a professional developing for the modern web era?
+
+- [ ] It allows developers to focus exclusively on hardware optimization by applying principles from the early era of mainframe computing.
+- [x] It enables the creation of systems that align with human cognitive limitations and social behaviors, leading to higher user adoption and fewer errors.
+- [ ] It provides a set of rigid aesthetic rules that prioritize visual artistic expression over the functional requirements of the software.
+- [ ] It ensures that web applications are restricted to legacy interface patterns to maintain consistency with 1980s command-line standards.
+```
+
 
 ## External Resources for Further Exploration
 
