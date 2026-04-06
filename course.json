@@ -1,262 +1,259 @@
 {
   "title": "Introduction to Human Computer Interaction",
-  "description": "Introduction to the foundations of HCI principles (e.g., usability, human cognition, mental models) to applied web design topics (e.g., navigation, forms, accessibility, responsive design, usability testing). Include references to luminaries in the field, commonly used terminology, and guiding principles and \"laws\". Emphasize real-world web design decisions, common mistakes, and best practices. The course is for undergraduate students with basic web development knowledge.",
+  "links": {},
   "modules": [
     {
       "title": "Foundations of HCI and Human Cognition",
-      "description": "Explore the psychological underpinnings of how humans interact with computers, including mental models, cognitive constraints, and the fundamental laws of interaction design.",
       "topics": [
         {
           "title": "Overview",
-          "description": "Provide a comprehensive introduction to the course, outlining learning objectives and the importance of HCI in modern web development.",
-          "path": "README.md",
           "type": "instruction",
+          "path": "README.md",
+          "id": "5be50f9f-eb91-4be6-b09d-b71aaf199880",
           "state": "published",
-          "id": "5be50f9f-eb91-4be6-b09d-b71aaf199880"
+          "description": "Provide a comprehensive introduction to the course, outlining learning objectives and the importance of HCI in modern web development."
         },
         {
           "title": "Defining Human Computer Interaction",
-          "description": "Explain the multidisciplinary nature of HCI and its evolution from early computing to the modern web era.",
-          "path": "instruction/defining-human-computer-interaction/defining-human-computer-interaction.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "efb4d40d-704b-42bc-9bed-c36f9341a828"
+          "path": "instruction/defining-human-computer-interaction/defining-human-computer-interaction.md",
+          "id": "efb4d40d-704b-42bc-9bed-c36f9341a828",
+          "state": "published",
+          "description": "Explain the multidisciplinary nature of HCI and its evolution from early computing to the modern web era."
         },
         {
           "title": "Luminaries of HCI",
-          "description": "Introduce the work of pioneers like Don Norman, Jakob Nielsen, and Ben Shneiderman, highlighting their core contributions to the field.",
-          "path": "instruction/luminaries-of-hci/luminaries-of-hci.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "2964b62e-de22-4b6c-9322-1c13e08cc433"
+          "path": "instruction/luminaries-of-hci/luminaries-of-hci.md",
+          "id": "2964b62e-de22-4b6c-9322-1c13e08cc433",
+          "state": "published",
+          "description": "Introduce the work of pioneers like Don Norman, Jakob Nielsen, and Ben Shneiderman, highlighting their core contributions to the field."
         },
         {
           "title": "Human Cognition and Memory",
-          "description": "Describe how short-term and long-term memory affect user performance and how to design for limited cognitive load.",
-          "path": "instruction/human-cognition-and-memory/human-cognition-and-memory.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "0c9e59f0-dfe5-4324-9787-cfeada701856"
+          "path": "instruction/human-cognition-and-memory/human-cognition-and-memory.md",
+          "id": "0c9e59f0-dfe5-4324-9787-cfeada701856",
+          "state": "published",
+          "description": "Describe how short-term and long-term memory affect user performance and how to design for limited cognitive load."
         },
         {
           "title": "Mental Models and Conceptual Models",
-          "description": "Explain the difference between a user's mental model and the system's conceptual model, and how to bridge the gap between them.",
-          "path": "instruction/mental-models-and-conceptual-models/mental-models-and-conceptual-models.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "34729dca-c79e-4890-8da4-3899fcf8f210"
+          "path": "instruction/mental-models-and-conceptual-models/mental-models-and-conceptual-models.md",
+          "id": "34729dca-c79e-4890-8da4-3899fcf8f210",
+          "state": "published",
+          "description": "Explain the difference between a user's mental model and the system's conceptual model, and how to bridge the gap between them."
         },
         {
           "title": "The Seven Stages of Action",
-          "description": "Detail Don Norman's stages of action, focusing on the Gulf of Execution and the Gulf of Evaluation in web interfaces.",
-          "path": "instruction/the-seven-stages-of-action/the-seven-stages-of-action.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "dd827f2c-1700-4a46-a445-5c8b7646b351"
+          "path": "instruction/the-seven-stages-of-action/the-seven-stages-of-action.md",
+          "id": "dd827f2c-1700-4a46-a445-5c8b7646b351",
+          "state": "published",
+          "description": "Detail Don Norman's stages of action, focusing on the Gulf of Execution and the Gulf of Evaluation in web interfaces."
         },
         {
           "title": "Fittss Law and Interaction Speed",
-          "description": "Explain Fitts's Law and its practical application in sizing and placing interactive elements like buttons and menus.",
-          "path": "instruction/fittss-law-and-interaction-speed/fittss-law-and-interaction-speed.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "416fa8cc-f4b7-4f33-bcb6-1e4bda734270"
+          "path": "instruction/fittss-law-and-interaction-speed/fittss-law-and-interaction-speed.md",
+          "id": "416fa8cc-f4b7-4f33-bcb6-1e4bda734270",
+          "state": "published",
+          "description": "Explain Fitts's Law and its practical application in sizing and placing interactive elements like buttons and menus."
         },
         {
           "title": "Hicks Law and Decision Making",
-          "description": "Analyze how the number of choices affects user decision time and provide strategies for simplifying complex web navigation.",
-          "path": "instruction/hicks-law-and-decision-making/hicks-law-and-decision-making.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "497bf747-f2c2-4e59-ac99-870502725495"
+          "path": "instruction/hicks-law-and-decision-making/hicks-law-and-decision-making.md",
+          "id": "497bf747-f2c2-4e59-ac99-870502725495",
+          "state": "published",
+          "description": "Analyze how the number of choices affects user decision time and provide strategies for simplifying complex web navigation."
         },
         {
           "title": "Gestalt Principles in UI Design",
-          "description": "Demonstrate how principles like proximity, similarity, and continuity influence how users perceive visual groupings on a webpage.",
-          "path": "instruction/gestalt-principles-in-ui-design/gestalt-principles-in-ui-design.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "c3002a39-b08a-45a3-bf35-bc01bc99cd01"
+          "path": "instruction/gestalt-principles-in-ui-design/gestalt-principles-in-ui-design.md",
+          "id": "c3002a39-b08a-45a3-bf35-bc01bc99cd01",
+          "state": "published",
+          "description": "Demonstrate how principles like proximity, similarity, and continuity influence how users perceive visual groupings on a webpage."
         },
         {
           "title": "Affordances Signifiers and Feedback",
-          "description": "Define affordances and signifiers in a digital context and explain why immediate feedback is critical for user confidence.",
-          "path": "instruction/affordances-signifiers-and-feedback/affordances-signifiers-and-feedback.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "1a581d39-0417-41a4-b1f5-e62e90d052fe"
+          "path": "instruction/affordances-signifiers-and-feedback/affordances-signifiers-and-feedback.md",
+          "id": "1a581d39-0417-41a4-b1f5-e62e90d052fe",
+          "state": "published",
+          "description": "Define affordances and signifiers in a digital context and explain why immediate feedback is critical for user confidence."
         }
       ]
     },
     {
       "title": "Applied Web Design and Interaction Patterns",
-      "description": "Transition from theory to practice by applying HCI principles to common web components, layout structures, and accessibility requirements.",
       "topics": [
         {
           "title": "Information Architecture and Sitemaps",
-          "description": "Discuss how to organize content logically and create sitemaps that reflect user expectations rather than technical constraints.",
-          "path": "instruction/information-architecture-and-sitemaps/information-architecture-and-sitemaps.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "e14e6e00-c134-465c-9b38-b73899549113"
+          "path": "instruction/information-architecture-and-sitemaps/information-architecture-and-sitemaps.md",
+          "id": "e14e6e00-c134-465c-9b38-b73899549113",
+          "state": "published",
+          "description": "Discuss how to organize content logically and create sitemaps that reflect user expectations rather than technical constraints."
         },
         {
           "title": "Navigation Design Patterns",
-          "description": "Compare different navigation styles like mega-menus, breadcrumbs, and hamburger menus, noting the pros and cons of each.",
-          "path": "instruction/navigation-design-patterns/navigation-design-patterns.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "3746aac7-3eec-4731-9313-9e7102699ead"
+          "path": "instruction/navigation-design-patterns/navigation-design-patterns.md",
+          "id": "3746aac7-3eec-4731-9313-9e7102699ead",
+          "state": "published",
+          "description": "Compare different navigation styles like mega-menus, breadcrumbs, and hamburger menus, noting the pros and cons of each."
         },
         {
           "title": "Designing Effective Web Forms",
-          "description": "Provide a guide on form usability, covering label placement, input types, error handling, and multi-step progression.",
-          "path": "instruction/designing-effective-web-forms/designing-effective-web-forms.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "c40cbd23-7296-4980-84b3-5c238305cef1"
+          "path": "instruction/designing-effective-web-forms/designing-effective-web-forms.md",
+          "id": "c40cbd23-7296-4980-84b3-5c238305cef1",
+          "state": "published",
+          "description": "Provide a guide on form usability, covering label placement, input types, error handling, and multi-step progression."
         },
         {
           "title": "Web Accessibility and WCAG",
-          "description": "Introduce the Web Content Accessibility Guidelines (WCAG) and explain how to design for users with visual, auditory, or motor impairments.",
-          "path": "instruction/web-accessibility-and-wcag/web-accessibility-and-wcag.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "8e6d51c6-8473-4042-bda4-196b3d7d3d0f"
+          "path": "instruction/web-accessibility-and-wcag/web-accessibility-and-wcag.md",
+          "id": "8e6d51c6-8473-4042-bda4-196b3d7d3d0f",
+          "state": "published",
+          "description": "Introduce the Web Content Accessibility Guidelines (WCAG) and explain how to design for users with visual, auditory, or motor impairments."
         },
         {
           "title": "Responsive Design and Mobile Contexts",
-          "description": "Explain how user behavior changes on mobile devices and how to implement responsive layouts that maintain usability across screen sizes.",
-          "path": "instruction/responsive-design-and-mobile-contexts/responsive-design-and-mobile-contexts.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "cdc40940-8176-4e50-9959-933bf161459b"
+          "path": "instruction/responsive-design-and-mobile-contexts/responsive-design-and-mobile-contexts.md",
+          "id": "cdc40940-8176-4e50-9959-933bf161459b",
+          "state": "published",
+          "description": "Explain how user behavior changes on mobile devices and how to implement responsive layouts that maintain usability across screen sizes."
         },
         {
           "title": "Visual Hierarchy and Typography",
-          "description": "Discuss the use of scale, color, and weight in typography to guide the user's eye toward the most important information.",
-          "path": "instruction/visual-hierarchy-and-typography/visual-hierarchy-and-typography.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "412b752c-e2db-42f7-aab4-57db52b513ab"
+          "path": "instruction/visual-hierarchy-and-typography/visual-hierarchy-and-typography.md",
+          "id": "412b752c-e2db-42f7-aab4-57db52b513ab",
+          "state": "published",
+          "description": "Discuss the use of scale, color, and weight in typography to guide the user's eye toward the most important information."
         },
         {
           "title": "Color Theory and Contrast Requirements",
-          "description": "Analyze the psychological impact of color and the technical requirements for color contrast to ensure readability and accessibility.",
-          "path": "instruction/color-theory-and-contrast-requirements/color-theory-and-contrast-requirements.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "58b35257-1ed0-4537-a336-118db5191a0d"
+          "path": "instruction/color-theory-and-contrast-requirements/color-theory-and-contrast-requirements.md",
+          "id": "58b35257-1ed0-4537-a336-118db5191a0d",
+          "state": "published",
+          "description": "Analyze the psychological impact of color and the technical requirements for color contrast to ensure readability and accessibility."
         },
         {
           "title": "Microinteractions and Animation",
-          "description": "Explore how small animations and interactions can provide status updates and delight users without becoming a distraction.",
-          "path": "instruction/microinteractions-and-animation/microinteractions-and-animation.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "8ab91a9d-3f75-431f-bf59-d8507665f00a"
+          "path": "instruction/microinteractions-and-animation/microinteractions-and-animation.md",
+          "id": "8ab91a9d-3f75-431f-bf59-d8507665f00a",
+          "state": "published",
+          "description": "Explore how small animations and interactions can provide status updates and delight users without becoming a distraction."
         },
         {
           "title": "Common UI Mistakes and Anti Patterns",
-          "description": "Identify frequent web design errors, such as 'dark patterns' and confusing iconography, and provide better alternatives.",
-          "path": "instruction/common-ui-mistakes-and-anti-patterns/common-ui-mistakes-and-anti-patterns.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "106ea47e-a846-4a96-92c8-88ef7d3ff1bb"
+          "path": "instruction/common-ui-mistakes-and-anti-patterns/common-ui-mistakes-and-anti-patterns.md",
+          "id": "106ea47e-a846-4a96-92c8-88ef7d3ff1bb",
+          "state": "published",
+          "description": "Identify frequent web design errors, such as 'dark patterns' and confusing iconography, and provide better alternatives."
         },
         {
           "title": "Design Systems and Component Libraries",
-          "description": "Explain the benefit of using design systems to maintain consistency and efficiency across large-scale web projects.",
-          "path": "instruction/design-systems-and-component-libraries/design-systems-and-component-libraries.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "f7ee1d31-ffa7-42c7-85de-6d94de24a0fc"
+          "path": "instruction/design-systems-and-component-libraries/design-systems-and-component-libraries.md",
+          "id": "f7ee1d31-ffa7-42c7-85de-6d94de24a0fc",
+          "state": "published",
+          "description": "Explain the benefit of using design systems to maintain consistency and efficiency across large-scale web projects."
         }
       ]
     },
     {
       "title": "Evaluation Usability Testing and Capstone",
-      "description": "Learn how to measure the success of a design through rigorous evaluation methods and complete a comprehensive design project.",
       "topics": [
         {
           "title": "Nielsens Ten Usability Heuristics",
-          "description": "Detail the ten general principles for user interface design and how they serve as a checklist for evaluation.",
-          "path": "instruction/nielsens-ten-usability-heuristics/nielsens-ten-usability-heuristics.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "33be71d4-4db6-411d-938d-93353e75e09d"
+          "path": "instruction/nielsens-ten-usability-heuristics/nielsens-ten-usability-heuristics.md",
+          "id": "33be71d4-4db6-411d-938d-93353e75e09d",
+          "state": "published",
+          "description": "Detail the ten general principles for user interface design and how they serve as a checklist for evaluation."
         },
         {
           "title": "Conducting a Heuristic Evaluation",
-          "description": "Provide a step-by-step guide on how to perform an expert review of a website using established usability heuristics.",
-          "path": "instruction/conducting-a-heuristic-evaluation/conducting-a-heuristic-evaluation.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "c89ad1a2-09ab-4a0d-88e2-26c5c6b45cb1"
+          "path": "instruction/conducting-a-heuristic-evaluation/conducting-a-heuristic-evaluation.md",
+          "id": "c89ad1a2-09ab-4a0d-88e2-26c5c6b45cb1",
+          "state": "published",
+          "description": "Provide a step-by-step guide on how to perform an expert review of a website using established usability heuristics."
         },
         {
           "title": "User Research and Interviewing",
-          "description": "Explain techniques for gathering user requirements and conducting interviews to understand user needs and pain points.",
-          "path": "instruction/user-research-and-interviewing/user-research-and-interviewing.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "ce41ab35-f636-4e53-9e18-613b12cd6853"
+          "path": "instruction/user-research-and-interviewing/user-research-and-interviewing.md",
+          "id": "ce41ab35-f636-4e53-9e18-613b12cd6853",
+          "state": "published",
+          "description": "Explain techniques for gathering user requirements and conducting interviews to understand user needs and pain points."
         },
         {
           "title": "Planning Usability Tests",
-          "description": "Describe how to create a test plan, including task scenarios, participant recruitment, and success metrics.",
-          "path": "instruction/planning-usability-tests/planning-usability-tests.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "7acb3b9e-1d00-43bb-9c78-cb54d721f7ad"
+          "path": "instruction/planning-usability-tests/planning-usability-tests.md",
+          "id": "7acb3b9e-1d00-43bb-9c78-cb54d721f7ad",
+          "state": "published",
+          "description": "Describe how to create a test plan, including task scenarios, participant recruitment, and success metrics."
         },
         {
           "title": "Moderated versus Unmoderated Testing",
-          "description": "Compare different testing environments and methods, discussing when to use remote tools versus in-person observation.",
-          "path": "instruction/moderated-versus-unmoderated-testing/moderated-versus-unmoderated-testing.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "609fbd58-4532-49c9-ac7e-2d2a3adabd10"
+          "path": "instruction/moderated-versus-unmoderated-testing/moderated-versus-unmoderated-testing.md",
+          "id": "609fbd58-4532-49c9-ac7e-2d2a3adabd10",
+          "state": "published",
+          "description": "Compare different testing environments and methods, discussing when to use remote tools versus in-person observation."
         },
         {
           "title": "Analyzing and Reporting Results",
-          "description": "Teach how to synthesize qualitative and quantitative data from usability tests into actionable design recommendations.",
-          "path": "instruction/analyzing-and-reporting-results/analyzing-and-reporting-results.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "4eeaa64e-9c62-49a1-afa1-28d42e0e7502"
+          "path": "instruction/analyzing-and-reporting-results/analyzing-and-reporting-results.md",
+          "id": "4eeaa64e-9c62-49a1-afa1-28d42e0e7502",
+          "state": "published",
+          "description": "Teach how to synthesize qualitative and quantitative data from usability tests into actionable design recommendations."
         },
         {
           "title": "Iterative Design and Prototyping",
-          "description": "Explain the importance of low-fidelity and high-fidelity prototyping in the iterative design cycle to save time and resources.",
-          "path": "instruction/iterative-design-and-prototyping/iterative-design-and-prototyping.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "8f9ddcce-b939-4934-ad10-8ccebda3890b"
+          "path": "instruction/iterative-design-and-prototyping/iterative-design-and-prototyping.md",
+          "id": "8f9ddcce-b939-4934-ad10-8ccebda3890b",
+          "state": "published",
+          "description": "Explain the importance of low-fidelity and high-fidelity prototyping in the iterative design cycle to save time and resources."
         },
         {
           "title": "Capstone Part One Discovery and Research",
-          "description": "Prompt the student to define a problem statement and conduct initial user research for their capstone web project.",
-          "path": "instruction/capstone-part-one-discovery-and-research/capstone-part-one-discovery-and-research.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "9cb25c99-ebca-4fe4-b5e0-c65cc47088ea"
+          "path": "instruction/capstone-part-one-discovery-and-research/capstone-part-one-discovery-and-research.md",
+          "id": "9cb25c99-ebca-4fe4-b5e0-c65cc47088ea",
+          "state": "published",
+          "description": "Prompt the student to define a problem statement and conduct initial user research for their capstone web project."
         },
         {
           "title": "Capstone Part Two Design and Wireframing",
-          "description": "Guide the student through creating wireframes and prototypes that apply the laws and principles learned in the course.",
-          "path": "instruction/capstone-part-two-design-and-wireframing/capstone-part-two-design-and-wireframing.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "843c5f29-8acb-4b28-88b1-05605a880266"
+          "path": "instruction/capstone-part-two-design-and-wireframing/capstone-part-two-design-and-wireframing.md",
+          "id": "843c5f29-8acb-4b28-88b1-05605a880266",
+          "state": "published",
+          "description": "Guide the student through creating wireframes and prototypes that apply the laws and principles learned in the course."
         },
         {
           "title": "Capstone Part Three Testing and Final Polish",
-          "description": "Finalize the capstone project by conducting a usability test on the prototype and presenting the final design decisions.",
-          "path": "instruction/capstone-part-three-testing-and-final-polish/capstone-part-three-testing-and-final-polish.md",
           "type": "instruction",
-          "state": "stub",
-          "id": "3c35b272-8b31-4064-b702-fdf934043689"
+          "path": "instruction/capstone-part-three-testing-and-final-polish/capstone-part-three-testing-and-final-polish.md",
+          "id": "3c35b272-8b31-4064-b702-fdf934043689",
+          "state": "published",
+          "description": "Finalize the capstone project by conducting a usability test on the prototype and presenting the final design decisions."
         }
       ]
     }
