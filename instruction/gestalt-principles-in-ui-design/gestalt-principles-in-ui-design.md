@@ -75,11 +75,22 @@ To better understand these concepts, take a moment to look at a complex website 
 
 By identifying these patterns, you will begin to see that "good design" is rarely about decoration; it is about the strategic application of human psychology to facilitate communication.
 
+
+```masteryls
+{"id":"bc85c2fd-fcd0-4a2f-8ed4-126f5c9824c4", "title":"Applying the Principle of Closure", "type":"multiple-choice"}
+In web design, how can the Gestalt principle of closure be strategically used to signal that more content is available in a horizontal carousel or slider?
+
+- [ ] By ensuring every item in the carousel is fully visible and perfectly centered within the viewport.
+- [ ] By giving every item in the carousel a unique background color to differentiate them from the page background.
+- [ ] By placing a "Next" button in close proximity to the first item in the list.
+- [x] By intentionally cutting off the edge of the last visible item to encourage the user's mind to complete the shape and recognize the pattern continues.
+```
+
+
 ## Summary
 
 Gestalt principles are the silent architects of the user experience. By leveraging Proximity, Similarity, Continuity, Closure, and Figure-Ground, designers can create interfaces that feel natural and easy to navigate. These principles allow us to organize information in a way that aligns with how the human brain is already wired to work. When these principles are ignored, interfaces feel cluttered and confusing; when they are mastered, the interface becomes almost invisible, allowing the user to focus entirely on their tasks.
 
-***
 
 ### External Resources for Further Study
 
