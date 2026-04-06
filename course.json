@@ -32,9 +32,11 @@
           "path": "instruction/luminaries-of-hci/luminaries-of-hci.md",
           "id": "2964b62e-de22-4b6c-9322-1c13e08cc433",
           "state": "published",
-          "interactions": [],
+          "interactions": [
+            "73a4f196-5383-44fa-bb64-1e121a8e8502"
+          ],
           "description": "Introduce the work of pioneers like Don Norman, Jakob Nielsen, and Ben Shneiderman, highlighting their core contributions to the field.",
-          "commit": "c8f6162407f9c9a40a7a7350c1b21a89dbc077bd"
+          "commit": "02925a36b9f3164960d72f26155d8fa1e74a96ea"
         },
         {
           "title": "Human Cognition and Memory",
