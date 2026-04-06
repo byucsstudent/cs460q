@@ -106,10 +106,11 @@
           "id": "c3002a39-b08a-45a3-bf35-bc01bc99cd01",
           "state": "published",
           "interactions": [
-            "c9ea6d89-0714-4e5a-9f6e-c875a01baa13"
+            "c9ea6d89-0714-4e5a-9f6e-c875a01baa13",
+            "bc85c2fd-fcd0-4a2f-8ed4-126f5c9824c4"
           ],
           "description": "Demonstrate how principles like proximity, similarity, and continuity influence how users perceive visual groupings on a webpage.",
-          "commit": "dc9afa2e6213b4c06cac28d4abe4cbe3d95c60bd"
+          "commit": "36dd08fd4c24809f2426c438c5a18f4203970191"
         },
         {
           "title": "Affordances Signifiers and Feedback",
