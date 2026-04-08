@@ -6,6 +6,8 @@ The word *Gestalt* roughly translates to "form" or "shape" in German. The core p
 
 ![gestalt.gif](gestalt.gif)
 
+[Experiment with Gestalt](/course/ede2e6ad-1b55-4ddb-8d4b-e04beff16b9f/topic/f0bfc010-5a29-4717-b8f8-285f39952895)
+
 ## The Principle of Proximity
 
 Proximity is perhaps the most powerful Gestalt principle in web design. It states that objects that are close to each other are perceived as a related group, while objects that are far apart are seen as independent.
