@@ -128,6 +128,13 @@
           "interactions": [],
           "description": "Define affordances and signifiers in a digital context and explain why immediate feedback is critical for user confidence.",
           "commit": "305bc14efc2cd15e1ef7f15d5c2025ab43ae5cef"
+        },
+        {
+          "title": "Fitts's Law Demo",
+          "type": "embedded",
+          "path": "https://leesjensen.com/demo/fitts.html",
+          "id": "8729c03c-c27c-40cb-87b3-057f0ae217de",
+          "description": "https://leesjensen.com/demo/fitts.html"
         }
       ]
     },
