@@ -18,6 +18,8 @@ Working memory is the mental workspace where we temporarily hold and manipulate 
 
 In 1956, cognitive psychologist George Miller published one of the most cited papers in psychology, suggesting that the number of objects an average human can hold in working memory is **7 ±2**. This is often referred to as "Miller’s Law." While modern research suggests that the number of "chunks" we can hold may actually be smaller (closer to 4 or 5) depending on the complexity of the information, the principle for web designers remains the same: _do not overwhelm the user's temporary storage_.
 
+[Experiment with Miller's Law](/course/ede2e6ad-1b55-4ddb-8d4b-e04beff16b9f/topic/260e2efb-50f6-412c-aad5-e639466e5469)
+
 #### Practical Example: Information Chunking
 Consider a credit card input field. A string of 16 digits (1234567812345678) is nearly impossible to hold in working memory at once. However, by "chunking" the data into four groups (1234 5678 1234 5678), we reduce the cognitive burden. The user no longer has to remember sixteen individual items; they only need to process four chunks.
 
