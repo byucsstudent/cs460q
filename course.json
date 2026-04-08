@@ -113,6 +113,13 @@
           "commit": "36dd08fd4c24809f2426c438c5a18f4203970191"
         },
         {
+          "title": "Gestalt Demo",
+          "type": "embedded",
+          "path": "https://leesjensen.com/demo/gestalt.html",
+          "id": "f0bfc010-5a29-4717-b8f8-285f39952895",
+          "description": "https://leesjensen.com/demo/gestalt.html"
+        },
+        {
           "title": "Affordances Signifiers and Feedback",
           "type": "instruction",
           "path": "instruction/affordances-signifiers-and-feedback/affordances-signifiers-and-feedback.md",
@@ -121,13 +128,6 @@
           "interactions": [],
           "description": "Define affordances and signifiers in a digital context and explain why immediate feedback is critical for user confidence.",
           "commit": "305bc14efc2cd15e1ef7f15d5c2025ab43ae5cef"
-        },
-        {
-          "title": "Gestalt Demo",
-          "type": "embedded",
-          "path": "https://leesjensen.com/demo/gestalt.html",
-          "id": "f0bfc010-5a29-4717-b8f8-285f39952895",
-          "description": "https://leesjensen.com/demo/gestalt.html"
         }
       ]
     },
