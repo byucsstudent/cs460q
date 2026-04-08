@@ -86,13 +86,6 @@
           "commit": "cab43feb3ccbd6ff6c91899b10322d1040e318b9"
         },
         {
-          "title": "Fitts's Law Demo",
-          "type": "embedded",
-          "path": "https://leesjensen.com/demo/fitts.html",
-          "id": "8729c03c-c27c-40cb-87b3-057f0ae217de",
-          "description": "https://leesjensen.com/demo/fitts.html"
-        },
-        {
           "title": "Hick's Law and Decision Making",
           "type": "instruction",
           "path": "instruction/hicks-law-and-decision-making/hicks-law-and-decision-making.md",
@@ -105,6 +98,13 @@
           ],
           "description": "Analyze how the number of choices affects user decision time and provide strategies for simplifying complex web navigation.",
           "commit": "b9817a04b3f51ae5d76ebc58d6799358ea8fdaff"
+        },
+        {
+          "title": "Fitts's Law Demo",
+          "type": "embedded",
+          "path": "https://leesjensen.com/demo/fitts.html",
+          "id": "8729c03c-c27c-40cb-87b3-057f0ae217de",
+          "description": "https://leesjensen.com/demo/fitts.html"
         },
         {
           "title": "Gestalt Principles in UI Design",
