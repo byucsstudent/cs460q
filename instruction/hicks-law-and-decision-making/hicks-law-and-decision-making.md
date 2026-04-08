@@ -6,6 +6,8 @@ Hick’s Law is the scientific foundation for the "less is more" philosophy. It 
 
 ![hicks.png](hicks.png)
 
+[Experiment with Hick's Law](/course/ede2e6ad-1b55-4ddb-8d4b-e04beff16b9f/topic/3ad6ca22-a2f7-4308-97f2-1b3728ab056e)
+
 ### The Mathematical Foundation and Logic
 
 The core of Hick’s Law is expressed through a logarithmic formula: `RT = a + b \log_2(n)`. In this equation, `RT` is the reaction time, `n` is the number of equally probable choices, and `a` and `b` are constants based on the context of the task. 
