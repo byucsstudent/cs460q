@@ -135,6 +135,13 @@
           "interactions": [],
           "description": "Define affordances and signifiers in a digital context and explain why immediate feedback is critical for user confidence.",
           "commit": "305bc14efc2cd15e1ef7f15d5c2025ab43ae5cef"
+        },
+        {
+          "title": "Hick's Law Demo",
+          "type": "embedded",
+          "path": "https://leesjensen.com/demo/hicks.html",
+          "id": "3ad6ca22-a2f7-4308-97f2-1b3728ab056e",
+          "description": "https://leesjensen.com/demo/hicks.html"
         }
       ]
     },
