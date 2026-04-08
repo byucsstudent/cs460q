@@ -8,6 +8,8 @@ For web developers and designers, Fitts’s Law is more than just a psychologica
 
 ![fitts.gif](fitts.gif)
 
+[Experiment with Fitts's Law](/course/ede2e6ad-1b55-4ddb-8d4b-e04beff16b9f/topic/8729c03c-c27c-40cb-87b3-057f0ae217de)
+
 At its core, Fitts’s Law states that the time to acquire a target is a function of the distance to and the size of the target. The formula is traditionally expressed as:
 
 **MT = a + b log₂(1 + D/W)**
