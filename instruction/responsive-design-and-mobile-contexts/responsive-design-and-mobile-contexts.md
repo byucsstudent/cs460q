@@ -14,6 +14,8 @@ This shift in context requires us to prioritize information differently. Mobile 
 
 In 2010, Ethan Marcotte introduced the term "Responsive Web Design," defining it through three essential technical components. Understanding these is vital for any designer working with developers.
 
+![threePillarsOfResponsiveDesign.png](threePillarsOfResponsiveDesign.png)
+
 **Fluid Grids**
 Instead of designing layouts based on fixed pixels (e.g., a sidebar that is always 300px wide), we use relative units like percentages or fractions. This ensures that the layout expands or contracts proportionally to the size of the browser window.
 
