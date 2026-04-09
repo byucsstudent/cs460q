@@ -97,6 +97,18 @@ Another challenge is **Labeling Ambiguity.** Using jargon or "clever" names for 
 
 Finally, designers often face the challenge of **Information Overload.** When every page is considered "top priority," the homepage becomes cluttered and the hierarchy collapses. This is where [Miller's Law](/course/ede2e6ad-1b55-4ddb-8d4b-e04beff16b9f/topic/260e2efb-50f6-412c-aad5-e639466e5469) (the idea that the average person can only keep about seven items in their working memory) is often cited, though in web design, the focus is less on a magic number and more on the "chunking" of information into manageable, logical groups.
 
+
+```masteryls
+{"id":"450fe2b4-6b66-465f-ad97-04d51e9f6a57", "title":"User-Centric Sitemap Design", "type":"multiple-choice"}
+To create an effective information architecture, sitemaps should be designed around user expectations. Which of the following is a common mistake that occurs when designers focus on internal or technical constraints instead?
+
+- [ ] Grouping content into categories based on the most common tasks users want to perform.
+- [ ] Using a "flat" navigation structure to ensure all content is accessible within three clicks.
+- [x] Organizing the site hierarchy to mirror the company's internal departmental divisions.
+- [ ] Limiting the number of top-level menu items to prevent cognitive overload for the visitor.
+```
+
+
 ### Summary
 
 Information Architecture is the invisible skeleton of the web. It begins with understanding the mental models of the user and ends with a structured sitemap that prioritizes findability and ease of use. By employing organization schemes that match user intent and utilizing research methods like card sorting, designers can create systems that feel intuitive.
