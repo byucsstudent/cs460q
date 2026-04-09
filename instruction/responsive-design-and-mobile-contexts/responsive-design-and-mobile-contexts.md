@@ -4,7 +4,7 @@ In the early days of the web, designers built for a "standard" monitor resolutio
 
 Responsive design is the practice of building a single website that adapts its layout, content, and functionality to the environment in which it is viewed. It is not merely about shrinking elements to fit a smaller screen; it is about understanding the shifting context of the user. In this section, we will explore the technical foundations of responsive design, the psychological shift in mobile user behavior, and the ergonomic requirements of touch-based interfaces.
 
-## The Shift in User Context
+## The Shift to Mobile First
 
 Designing for mobile is fundamentally different from designing for desktop because the user's environment and goals change. On a desktop, a user often has high "attentional bandwidth"—they are likely seated and focused. On a mobile device, users are often in a state of "continuous partial attention." They may be checking a bus schedule while navigating a crowd or looking for a restaurant menu while holding a conversation.
 
@@ -44,6 +44,18 @@ Alternative patterns include:
 *   **The Tab Bar:** Keeping 3 to 5 primary actions visible at the bottom of the screen.
 *   **The "Priority+" Pattern:** Showing as many items as will fit and hiding the rest under a "More" label.
 *   **Progressive Disclosure:** Showing only the most relevant information initially and allowing users to "drill down" into details as needed.
+
+
+```masteryls
+{"id":"dcd1211f-ac73-42c1-8aaf-d95292de418a", "title":"Mobile-First Design Strategy", "type":"multiple-choice"}
+When implementing a responsive layout, what does it mean to adopt a "mobile-first" design strategy?
+
+- [ ] Designing the desktop version with full functionality first, then removing or hiding non-essential elements to fit smaller screens.
+- [x] Starting the design process with the smallest screen's constraints and core content, then progressively adding complexity and features for larger displays.
+- [ ] Creating a separate, simplified website on a dedicated subdomain that redirects users based on their device's hardware detection.
+- [ ] Prioritizing the use of mobile-specific features, such as GPS and camera access, before considering standard web navigation.
+```
+
 
 ## Common Challenges and Solutions
 
