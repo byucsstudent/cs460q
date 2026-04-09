@@ -8,7 +8,7 @@ In the context of Human-Computer Interaction (HCI), accessibility is not a "bolt
 
 ## The Web Content Accessibility Guidelines (WCAG)
 
-To create a shared standard for web accessibility, the World Wide Web Consortium (W3C) developed the Web Content Accessibility Guidelines, known as WCAG. Currently, WCAG 2.1 and 2.2 are the most widely accepted standards globally. These guidelines are organized under four fundamental principles, often referred to by the acronym **POUR**.
+To create a shared standard for web accessibility, the World Wide Web Consortium (W3C) developed the Web Content Accessibility Guidelines, known as WCAG (pronounced “Wuh-cag”). Currently, WCAG 2.1 and 2.2 are the most widely accepted standards globally. These guidelines are organized under four fundamental principles, often referred to by the acronym **POUR**.
 
 ![pourPrinciples.png](pourPrinciples.png)
 
