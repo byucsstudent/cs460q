@@ -211,13 +211,14 @@
             "dcd1211f-ac73-42c1-8aaf-d95292de418a"
           ],
           "description": "Explain how user behavior changes on mobile devices and how to implement responsive layouts that maintain usability across screen sizes.",
-          "commit": "b1658320c6cc8721b877a81b34a2d0574ed2b3a5"
+          "commit": "1f57dfb4e4d8d3a62374691a11218d188417a8d3"
         },
         {
           "title": "Responsive Design Demo",
           "type": "embedded",
           "path": "https://leesjensen.com/demo/responsive.html",
           "id": "a1c6ad80-3d50-4fa4-a48a-943f1ad84e1b",
+          "state": "published",
           "description": "https://leesjensen.com/demo/responsive.html"
         },
         {
