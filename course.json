@@ -175,7 +175,11 @@
           "path": "instruction/navigation-design-patterns/navigation-design-patterns.md",
           "id": "3746aac7-3eec-4731-9313-9e7102699ead",
           "state": "published",
-          "description": "Compare different navigation styles like mega-menus, breadcrumbs, and hamburger menus, noting the pros and cons of each."
+          "interactions": [
+            "ad50133c-8e6b-427f-82f9-d69c51629478"
+          ],
+          "description": "Compare different navigation styles like mega-menus, breadcrumbs, and hamburger menus, noting the pros and cons of each.",
+          "commit": "dade32d27c02c6a20577e1ef073f35bf5c1170a4"
         },
         {
           "title": "Designing Effective Web Forms",
