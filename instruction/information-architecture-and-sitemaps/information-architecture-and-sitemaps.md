@@ -8,6 +8,8 @@ The field was largely popularized by Peter Morville and Louis Rosenfeld in their
 
 At the heart of IA is the concept of the mental model. A mental model is an internal representation of how something works in the real world. When users visit a website, they bring expectations based on their previous experiences with other websites and physical systems. For example, most users expect "Contact Us" to be in the footer or the far right of a navigation bar.
 
+![informationArchitecture.png](informationArchitecture.png)
+
 Effective information architecture aligns with these mental models to reduce cognitive load—the amount of mental effort required to use a system. When information is organized logically according to user expectations rather than technical constraints, the interface becomes "invisible," allowing the user to focus on their goals rather than navigating the tool.
 
 ### Organization Schemes and Structures
