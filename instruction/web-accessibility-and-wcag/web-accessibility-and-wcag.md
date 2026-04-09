@@ -2,11 +2,15 @@
 
 The power of the web is in its universality. As Sir Tim Berners-Lee, the inventor of the World Wide Web, famously stated, "Access by everyone regardless of disability is an essential aspect." Web accessibility, often abbreviated as **A11y**, is the practice of ensuring there are no barriers that prevent interaction with, or access to, websites by people with physical disabilities, situational disabilities, or socio-economic restrictions on bandwidth and speed. When sites are correctly designed, developed, and edited, all users have equal access to information and functionality.
 
+You will find that when you create universal designs, all users usually benefit. This is usually a by product of intentional thought for the minority that unintentionally solves problems that the majority didn't know were also impacting them.
+
 In the context of Human-Computer Interaction (HCI), accessibility is not a "bolt-on" feature to be considered at the end of a project. Instead, it is a core component of usability. A site that is inaccessible is, by definition, unusable for a significant portion of the population. This lesson explores the standards that govern the web and provides practical strategies for designing inclusive digital experiences.
 
 ## The Web Content Accessibility Guidelines (WCAG)
 
 To create a shared standard for web accessibility, the World Wide Web Consortium (W3C) developed the Web Content Accessibility Guidelines, known as WCAG. Currently, WCAG 2.1 and 2.2 are the most widely accepted standards globally. These guidelines are organized under four fundamental principles, often referred to by the acronym **POUR**.
+
+![pourPrinciples.png](pourPrinciples.png)
 
 ### Perceivable
 Information and user interface components must be presentable to users in ways they can perceive. This means users must be able to comprehend the information being depicted; it cannot be invisible to all of their senses. For example, providing text alternatives for non-text content allows that content to be converted into other forms people need, such as large print, braille, speech, symbols, or simpler language.
