@@ -4,6 +4,10 @@ In the early days of the web, designers built for a "standard" monitor resolutio
 
 Responsive design is the practice of building a single website that adapts its layout, content, and functionality to the environment in which it is viewed. It is not merely about shrinking elements to fit a smaller screen; it is about understanding the shifting context of the user. In this section, we will explore the technical foundations of responsive design, the psychological shift in mobile user behavior, and the ergonomic requirements of touch-based interfaces.
 
+![responsive.gif](responsive.gif)
+
+[Responsive Design Demo](/course/ede2e6ad-1b55-4ddb-8d4b-e04beff16b9f/topic/a1c6ad80-3d50-4fa4-a48a-943f1ad84e1b)
+
 ## The Shift to Mobile First
 
 Designing for mobile is fundamentally different from designing for desktop because the user's environment and goals change. On a desktop, a user often has high "attentional bandwidth"—they are likely seated and focused. On a mobile device, users are often in a state of "continuous partial attention." They may be checking a bus schedule while navigating a crowd or looking for a restaurant menu while holding a conversation.
