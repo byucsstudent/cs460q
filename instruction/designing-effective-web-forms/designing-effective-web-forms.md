@@ -6,9 +6,9 @@ Understanding form design requires moving beyond simple HTML tags. It requires a
 
 ### The Psychology of Form Completion
 
-Before a user types a single character, they perform a "cost-benefit analysis." They subconsciously weigh the effort required to fill out the form against the value they expect to receive. This is known as the interaction cost. To minimize this cost, designers must respect the user's cognitive resources.
+Before a user types a single character, they perform a "cost-benefit analysis." They subconsciously weigh the effort required to fill out the form against the value they expect to receive. This is known as the **interaction cost**. To minimize this cost, designers must respect the user's cognitive resources.
 
-One of the most significant hurdles in form design is "form fatigue." This occurs when a user is presented with too many fields or a confusing layout, leading to abandonment. To combat this, we follow the principle of "Less is More." Every field you remove increases the likelihood of completion. If a piece of data is not strictly necessary for the immediate transaction, it should be omitted or made optional.
+One of the most significant hurdles in form design is **form fatigue**. This occurs when a user is presented with too many fields or a confusing layout, leading to abandonment. To combat this, we follow the principle of "Less is More". Every field you remove increases the likelihood of completion. If a piece of data is not strictly necessary for the immediate transaction, it should be omitted or made optional.
 
 ### Label Placement and Scanning Patterns
 
@@ -27,6 +27,18 @@ Choosing the correct input type is not just about functionality; it is about pro
 For categorical choices, the decision between radio buttons and dropdown menus is a classic design dilemma. As a general rule, if there are fewer than five options, use **radio buttons**. Radio buttons allow the user to see all available choices at once, reducing the cognitive effort required to remember the options. **Dropdown menus** should be reserved for long lists, such as a list of countries or states, where showing all options would clutter the interface.
 
 For binary choices (Yes/No), **checkboxes** are the standard. However, ensure that the label clearly describes what happens when the box is checked. Avoid "double negatives," such as a checkbox labeled "Do not unsubscribe," as these force the user to perform extra mental gymnastics to understand the outcome.
+
+
+```masteryls
+{"id":"99ee259a-9690-40c7-8e3c-c9526baa0255", "title":"Selecting the Optimal Input Type", "type":"multiple-choice"}
+When designing a form where a user must select exactly one option from a list of three mutually exclusive choices (e.g., "Small," "Medium," or "Large"), which input type provides the best usability by minimizing cognitive load and interaction cost?
+
+- [ ] A dropdown menu (select box) to keep the interface clean and save vertical space
+- [x] Radio buttons, because they allow the user to see all available options immediately and select one with a single click
+- [ ] Checkboxes, as they are the standard convention for selecting items from a short list
+- [ ] A toggle switch, because it provides an immediate visual confirmation of the selection state
+```
+
 
 ### Error Handling and Inline Validation
 
@@ -48,9 +60,12 @@ When a form requires a significant amount of information—such as a mortgage ap
 By breaking a long form into logical sections, you reduce the perceived complexity. Each step should represent a clear "chapter" in the process (e.g., Personal Info, Shipping Details, Payment). 
 
 To make multi-step forms successful:
-*   **Provide a Progress Indicator:** Users need to know where they are and how much is left. A progress bar or a "Step 1 of 4" label manages expectations and reduces anxiety.
+*   **Provide a Progress Indicator:** Users need to know where they are and how much is left. A progress bar or a "Step 1 of 4" label manages expectations and reduces anxiety. Displaying the progression of the desired outcome can be even more powerful. For example, the creation of the pizza you are purchasing.
 *   **Save Progress Automatically:** If a user accidentally closes their browser, losing their data is a guaranteed way to ensure they never return.
 *   **Allow Backtracking:** Ensure users can go back to previous steps to review or edit their information without losing the data they’ve already entered.
+*   **Break into logical groups:** Most tasks have logical groupings. By restricting the choices to be specific to each group you can make a complex process feel easier. This reduces the cognitive load in accordance with Hicks's Law. 
+
+![designDecisionFatiguePizza.gif](designDecisionFatiguePizza.gif)
 
 ### Common Challenges and Real-World Solutions
 
