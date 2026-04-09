@@ -34,6 +34,13 @@ For images, "Alt Text" (alternative text) is mandatory. An image of a "Submit" b
 
 For users with low vision or color blindness, contrast is king. WCAG AA standards require a contrast ratio of at least 4.5:1 for normal text and 3:1 for large text. Furthermore, never use color as the *only* visual means of conveying information. For example, an error message should not just be red text; it should also include an icon or an explicit text label like "Error:" to ensure users who cannot perceive red can still understand the state of the system.
 
+
+```masteryls
+{"id":"26ab1e89-ede7-4359-8885-b3cb90f87f2f", "title":"Visual impairments", "type":"essay" }
+What should you consider when designing for visual impairments?
+```
+
+
 ## Designing for Motor and Physical Impairments
 
 Motor impairments can include persistent conditions like Parkinson’s disease or temporary situations like a broken arm. These users often rely on keyboards, switch devices, or mouth sticks instead of a mouse.
