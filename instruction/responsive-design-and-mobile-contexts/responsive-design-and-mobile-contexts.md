@@ -12,7 +12,7 @@ This shift in context requires us to prioritize information differently. Mobile 
 
 ## The Three Pillars of Responsive Web Design
 
-In 2010, Ethan Marcotte introduced the term "Responsive Web Design," defining it through three essential technical components. Understanding these is vital for any designer working with developers.
+In 2010, Ethan Marcotte introduced the term [Responsive Web Design](https://en.wikipedia.org/wiki/Responsive_web_design), defining it through three essential technical components. Understanding these is vital for any designer working with developers.
 
 ![threePillarsOfResponsiveDesign.png](threePillarsOfResponsiveDesign.png)
 
