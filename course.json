@@ -153,7 +153,11 @@
           "path": "instruction/designing-effective-web-forms/designing-effective-web-forms.md",
           "id": "c40cbd23-7296-4980-84b3-5c238305cef1",
           "state": "published",
-          "description": "Provide a guide on form usability, covering label placement, input types, error handling, and multi-step progression."
+          "interactions": [
+            "99ee259a-9690-40c7-8e3c-c9526baa0255"
+          ],
+          "description": "Provide a guide on form usability, covering label placement, input types, error handling, and multi-step progression.",
+          "commit": "5ce7752a6431ddc9dea6596025ed65e5151381bb"
         },
         {
           "title": "Web Accessibility and WCAG",
