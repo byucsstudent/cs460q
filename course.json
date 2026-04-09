@@ -58,6 +58,7 @@
           "type": "embedded",
           "path": "https://leesjensen.com/demo/millers.html",
           "id": "260e2efb-50f6-412c-aad5-e639466e5469",
+          "state": "published",
           "description": "https://leesjensen.com/demo/millers.html"
         },
         {
@@ -97,6 +98,7 @@
           "type": "embedded",
           "path": "https://leesjensen.com/demo/fitts.html",
           "id": "8729c03c-c27c-40cb-87b3-057f0ae217de",
+          "state": "published",
           "description": "https://leesjensen.com/demo/fitts.html"
         },
         {
@@ -118,6 +120,7 @@
           "type": "embedded",
           "path": "https://leesjensen.com/demo/hicks.html",
           "id": "3ad6ca22-a2f7-4308-97f2-1b3728ab056e",
+          "state": "published",
           "description": "https://leesjensen.com/demo/hicks.html"
         },
         {
@@ -138,6 +141,7 @@
           "type": "embedded",
           "path": "https://leesjensen.com/demo/gestalt.html",
           "id": "f0bfc010-5a29-4717-b8f8-285f39952895",
+          "state": "published",
           "description": "https://leesjensen.com/demo/gestalt.html"
         },
         {
@@ -161,7 +165,9 @@
           "path": "instruction/information-architecture-and-sitemaps/information-architecture-and-sitemaps.md",
           "id": "e14e6e00-c134-465c-9b38-b73899549113",
           "state": "published",
-          "description": "Discuss how to organize content logically and create sitemaps that reflect user expectations rather than technical constraints."
+          "interactions": [],
+          "description": "Discuss how to organize content logically and create sitemaps that reflect user expectations rather than technical constraints.",
+          "commit": "73519b9da8fcfeeadbaae5ff07275072a3c42f1a"
         },
         {
           "title": "Navigation Design Patterns",
