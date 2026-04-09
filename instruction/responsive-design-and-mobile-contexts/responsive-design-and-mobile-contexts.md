@@ -6,7 +6,7 @@ Responsive design is the practice of building a single website that adapts its l
 
 ![responsive.gif](responsive.gif)
 
-[Responsive Design Demo](/course/ede2e6ad-1b55-4ddb-8d4b-e04beff16b9f/topic/a1c6ad80-3d50-4fa4-a48a-943f1ad84e1b)
+[Experiment with responsive design](/course/ede2e6ad-1b55-4ddb-8d4b-e04beff16b9f/topic/a1c6ad80-3d50-4fa4-a48a-943f1ad84e1b)
 
 ## The Shift to Mobile First
 
