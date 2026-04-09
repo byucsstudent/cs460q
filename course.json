@@ -211,7 +211,7 @@
             "dcd1211f-ac73-42c1-8aaf-d95292de418a"
           ],
           "description": "Explain how user behavior changes on mobile devices and how to implement responsive layouts that maintain usability across screen sizes.",
-          "commit": "1f57dfb4e4d8d3a62374691a11218d188417a8d3"
+          "commit": "b40dca61d4a2c4adcf05094bb00e7aafdd6c0da9"
         },
         {
           "title": "Responsive Design Demo",
