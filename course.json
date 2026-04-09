@@ -207,7 +207,11 @@
           "path": "instruction/responsive-design-and-mobile-contexts/responsive-design-and-mobile-contexts.md",
           "id": "cdc40940-8176-4e50-9959-933bf161459b",
           "state": "published",
-          "description": "Explain how user behavior changes on mobile devices and how to implement responsive layouts that maintain usability across screen sizes."
+          "interactions": [
+            "dcd1211f-ac73-42c1-8aaf-d95292de418a"
+          ],
+          "description": "Explain how user behavior changes on mobile devices and how to implement responsive layouts that maintain usability across screen sizes.",
+          "commit": "9e1edaaf33dbd0bb0501c43b3c238918c6fbf27e"
         },
         {
           "title": "Visual Hierarchy and Typography",
