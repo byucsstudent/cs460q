@@ -95,7 +95,7 @@ A frequent mistake in IA is the **"Org Chart Syndrome."** This occurs when a web
 
 Another challenge is **Labeling Ambiguity.** Using jargon or "clever" names for navigation items can confuse users. A link labeled "The Hub" might mean anything from a blog to a login portal. The solution is to use descriptive, plain language. As usability expert Steve Krug famously titled his book: *Don't Make Me Think*. Labels should be predictable and distinct.
 
-Finally, designers often face the challenge of **Information Overload.** When every page is considered "top priority," the homepage becomes cluttered and the hierarchy collapses. This is where Miller’s Law (the idea that the average person can only keep about seven items in their working memory) is often cited, though in web design, the focus is less on a magic number and more on the "chunking" of information into manageable, logical groups.
+Finally, designers often face the challenge of **Information Overload.** When every page is considered "top priority," the homepage becomes cluttered and the hierarchy collapses. This is where [Miller's Law](/course/ede2e6ad-1b55-4ddb-8d4b-e04beff16b9f/topic/260e2efb-50f6-412c-aad5-e639466e5469) (the idea that the average person can only keep about seven items in their working memory) is often cited, though in web design, the focus is less on a magic number and more on the "chunking" of information into manageable, logical groups.
 
 ### Summary
 
