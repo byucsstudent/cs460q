@@ -81,6 +81,18 @@ As you browse the web today, take a moment to analyze the navigation of three di
 
 Reflecting on these questions will help you move from being a consumer of web design to a critical practitioner.
 
+
+```masteryls
+{"id":"ad50133c-8e6b-427f-82f9-d69c51629478", "title":"Comparing Navigation Design Patterns", "type":"multiple-choice"}
+When designing a website's information architecture, choosing between navigation patterns like mega-menus, breadcrumbs, and hamburger menus involves balancing visibility against screen real estate. Which statement accurately describes the trade-offs between these patterns?
+
+- [ ] Breadcrumbs serve as the primary navigation tool for mobile users to replace hamburger menus, as they show the entire site map at a glance.
+- [x] Mega-menus enhance the discoverability of deep content categories on desktop, while hamburger menus prioritize a minimalist UI by hiding options behind an interaction.
+- [ ] Hamburger menus are preferred for large e-commerce sites because they allow users to see all sub-categories simultaneously without clicking.
+- [ ] Mega-menus are strictly used for mobile responsiveness to save space, whereas breadcrumbs are the primary way users find new sections on a desktop site.
+```
+
+
 ## External Resources for Further Study
 
 To deepen your understanding of these patterns, consider exploring the following resources:
