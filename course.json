@@ -157,7 +157,7 @@
             "99ee259a-9690-40c7-8e3c-c9526baa0255"
           ],
           "description": "Provide a guide on form usability, covering label placement, input types, error handling, and multi-step progression.",
-          "commit": "5ce7752a6431ddc9dea6596025ed65e5151381bb"
+          "commit": "5bb7471f238929c1d54a9216165264941d906f79"
         },
         {
           "title": "Web Accessibility and WCAG",
