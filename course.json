@@ -214,6 +214,13 @@
           "commit": "b1658320c6cc8721b877a81b34a2d0574ed2b3a5"
         },
         {
+          "title": "Responsive Design Demo",
+          "type": "embedded",
+          "path": "https://leesjensen.com/demo/responsive.html",
+          "id": "a1c6ad80-3d50-4fa4-a48a-943f1ad84e1b",
+          "description": "https://leesjensen.com/demo/responsive.html"
+        },
+        {
           "title": "Visual Hierarchy and Typography",
           "type": "instruction",
           "path": "instruction/visual-hierarchy-and-typography/visual-hierarchy-and-typography.md",
@@ -252,13 +259,6 @@
           "id": "f7ee1d31-ffa7-42c7-85de-6d94de24a0fc",
           "state": "published",
           "description": "Explain the benefit of using design systems to maintain consistency and efficiency across large-scale web projects."
-        },
-        {
-          "title": "Responsive Design Demo",
-          "type": "embedded",
-          "path": "https://leesjensen.com/demo/responsive.html",
-          "id": "a1c6ad80-3d50-4fa4-a48a-943f1ad84e1b",
-          "description": "https://leesjensen.com/demo/responsive.html"
         }
       ]
     },
