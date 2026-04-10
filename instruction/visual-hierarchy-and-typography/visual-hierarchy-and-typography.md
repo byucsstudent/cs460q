@@ -53,6 +53,8 @@ From an HCI perspective, color must be used with accessibility in mind. The **We
 
 A **hero section** is a high-impact entry point that quickly communicates purpose, audience, and next action while minimizing cognitive load. It uses clear visual hierarchy and strong affordances to guide attention and decision-making, aligns user and system goals, and maintains accessibility and responsiveness to ensure an intuitive first interaction.
 
+![hero.png](hero.png)
+
 Consider a standard hero section on a homepage. To guide the eye effectively, a designer might apply the following hierarchy:
 
 1.  **The Headline (H1):** The largest text on the page, set in a bold weight (700) and a high-contrast color. This is the first thing the user sees.
