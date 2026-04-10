@@ -49,6 +49,8 @@ High contrast (black text on a white background) is the standard for readability
 
 From an HCI perspective, color must be used with accessibility in mind. The **Web Content Accessibility Guidelines (WCAG)** require specific contrast ratios (usually 4.5:1 for body text) to ensure content is readable by users with visual impairments. Furthermore, color should never be the *only* way to convey meaning. For example, a link should have an underline or a weight change in addition to a color change, ensuring that color-blind users can still identify interactive elements.
 
+[Experiment with WCAG](/course/ede2e6ad-1b55-4ddb-8d4b-e04beff16b9f/topic/cd32402d-8b89-4e0c-b343-443f77c27472)
+
 ### Practical Application: Building a Hero Section
 
 A **hero section** is a high-impact entry point that quickly communicates purpose, audience, and next action while minimizing cognitive load. It uses clear visual hierarchy and strong affordances to guide attention and decision-making, aligns user and system goals, and maintains accessibility and responsiveness to ensure an intuitive first interaction.
