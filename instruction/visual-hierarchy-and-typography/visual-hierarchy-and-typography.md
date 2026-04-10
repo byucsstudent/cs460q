@@ -51,7 +51,9 @@ From an HCI perspective, color must be used with accessibility in mind. The **We
 
 ### Practical Application: Building a Hero Section
 
-Consider a standard "Hero" section on a homepage. To guide the eye effectively, a designer might apply the following hierarchy:
+A **hero section** is a high-impact entry point that quickly communicates purpose, audience, and next action while minimizing cognitive load. It uses clear visual hierarchy and strong affordances to guide attention and decision-making, aligns user and system goals, and maintains accessibility and responsiveness to ensure an intuitive first interaction.
+
+Consider a standard hero section on a homepage. To guide the eye effectively, a designer might apply the following hierarchy:
 
 1.  **The Headline (H1):** The largest text on the page, set in a bold weight (700) and a high-contrast color. This is the first thing the user sees.
 2.  **The Subheadline:** Significantly smaller than the headline (perhaps 50% of the size) and set in a medium weight (400 or 500). It provides context to the headline.
