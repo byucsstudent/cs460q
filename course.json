@@ -227,7 +227,9 @@
           "path": "instruction/visual-hierarchy-and-typography/visual-hierarchy-and-typography.md",
           "id": "412b752c-e2db-42f7-aab4-57db52b513ab",
           "state": "published",
-          "description": "Discuss the use of scale, color, and weight in typography to guide the user's eye toward the most important information."
+          "interactions": [],
+          "description": "Discuss the use of scale, color, and weight in typography to guide the user's eye toward the most important information.",
+          "commit": "be9bf0ec239befb0c8cf5e0cda915891effadfca"
         },
         {
           "title": "Color Theory and Contrast Requirements",
