@@ -19,14 +19,17 @@ In professional web design, we often use a **Modular Scale**. This is a sequence
 
 | Typographic Element | Standard Size (px) | Application of Scale, Weight, and Color |
 | :--- | :--- | :--- |
-| **Title** | 32px – 48px | Utilizes maximum **scale** and heavy **weight** to establish the primary visual anchor on a page. |
-| **Heading** | 24px – 32px | Uses increased **scale** relative to body text to organize content and guide the eye during scanning. |
-| **Paragraph** | 16px | The baseline for legibility; typically uses a neutral **color** (e.g., dark gray) to reduce eye strain during extended reading. |
-| **Label** | 12px – 14px | Uses a smaller **scale** but often a distinct **weight** (Bold) or **color** to signify its role as secondary metadata. |
-| **Input Element** | 16px | Sized to ensure accessibility; maintains consistent **scale** with paragraph text to provide a seamless interactive experience. |
+| **Title** | 72px | Utilizes maximum **scale** and heavy **weight** to establish the primary visual anchor on a page. |
+| **Heading** | 42px-18px | Uses increased **scale** relative to body text to organize content and guide the eye during scanning. |
+| **Paragraph** | 18px-16px | The baseline for legibility; typically uses a neutral **color** (e.g., dark gray) to reduce eye strain during extended reading. |
+| **Label** | 18px | Uses a smaller **scale** but often a distinct **weight** (Bold) or **color** to signify its role as secondary metadata. |
+| **Input Element** | 18px | Sized to ensure accessibility; maintains consistent **scale** with paragraph text to provide a seamless interactive experience. |
+| **Button** | 18px | Matching paragraph text with padding signifiers. |
 
 
 Using a consistent scale ensures that the difference between an H1 (the primary page title) and an H2 (a section subhead) is distinct enough for the user to perceive the change in "level" instantly. A common mistake is making headings too similar in size to the body text, which flattens the hierarchy and confuses the structural relationship of the content.
+
+![topography.png](topography.png)
 
 ### The Power of Typographic Weight
 
