@@ -8,6 +8,8 @@ Before diving into specific typographic attributes, it is essential to understan
 
 Effective typography leverages known scanning patterns, such as the **F-Pattern** (common for text-heavy pages like blogs) and the **Z-Pattern** (common for landing pages with distinct calls to action). By creating a clear visual hierarchy, you provide the "signposts" that help users navigate these patterns efficiently. Without this structure, a page becomes a "gray block," leading to cognitive fatigue and high bounce rates.
 
+![fAndZPatterns.png](fAndZPatterns.png)
+
 ### Scale and the Modular Scale
 
 Scale is perhaps the most immediate tool for establishing hierarchy. Larger elements naturally attract more attention than smaller ones. However, effective scale is not about making things "big" at random; it is about creating a mathematical relationship between different levels of information.
