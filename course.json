@@ -232,6 +232,13 @@
           "commit": "c0fec090ae664302d7f43ca83773071fc71d5855"
         },
         {
+          "title": "WCAG Demo",
+          "type": "embedded",
+          "path": "https://leesjensen.com/demo/wcag.html",
+          "id": "cd32402d-8b89-4e0c-b343-443f77c27472",
+          "description": "https://leesjensen.com/demo/wcag.html"
+        },
+        {
           "title": "Color Theory and Contrast Requirements",
           "type": "instruction",
           "path": "instruction/color-theory-and-contrast-requirements/color-theory-and-contrast-requirements.md",
@@ -262,13 +269,6 @@
           "id": "f7ee1d31-ffa7-42c7-85de-6d94de24a0fc",
           "state": "published",
           "description": "Explain the benefit of using design systems to maintain consistency and efficiency across large-scale web projects."
-        },
-        {
-          "title": "WCAG Demo",
-          "type": "embedded",
-          "path": "https://leesjensen.com/demo/wcag.html",
-          "id": "cd32402d-8b89-4e0c-b343-443f77c27472",
-          "description": "https://leesjensen.com/demo/wcag.html"
         }
       ]
     },
