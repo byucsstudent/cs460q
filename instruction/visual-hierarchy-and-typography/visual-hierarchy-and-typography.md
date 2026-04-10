@@ -72,6 +72,65 @@ Another challenge is maintaining hierarchy across responsive breakpoints. A font
 
 **The Solution:** Implement fluid typography using CSS functions like `clamp()`. This allows font sizes to scale smoothly between a defined minimum and maximum, ensuring that your visual hierarchy remains intact regardless of the device.
 
+
+The `clamp()` function uses three parameters:
+
+1.  **Minimum value**: The smallest the font will get (e.g., on mobile).
+2.  **Preferred value**: A dynamic value (usually using viewport units like `vw`) that allows the text to scale.
+3.  **Maximum value**: The largest the font will grow (e.g., on large monitors).
+
+#### CSS Implementation
+
+The following example demonstrates how `clamp()` works alongside **weight** and **color** to guide the user's eye toward the most critical information first.
+
+```css
+/* Primary Heading: High importance */
+h1 {
+  /* SCALE: Fluidly scales between 2rem and 5rem based on 8% of the viewport width */
+  font-size: clamp(2rem, 8vw, 5rem);
+
+  /* WEIGHT: Extra bold to create immediate visual impact */
+  font-weight: 900;
+
+  /* COLOR: High-contrast dark color to grab attention */
+  color: #1a1a1a;
+  
+  line-height: 1.1;
+}
+
+/* Subheading: Secondary importance */
+h2 {
+  /* SCALE: Scales between 1.5rem and 3rem */
+  font-size: clamp(1.5rem, 4vw, 3rem);
+
+  /* WEIGHT: Semi-bold to differentiate from the primary heading */
+  font-weight: 600;
+
+  /* COLOR: A slightly muted shade to lower its visual priority */
+  color: #4a4a4a;
+}
+
+/* Body Text: Tertiary information */
+p {
+  /* SCALE: Ensures readability without competing with headings */
+  font-size: clamp(1rem, 1vw + 0.5rem, 1.25rem);
+
+  /* WEIGHT: Normal weight for comfortable long-form reading */
+  font-weight: 400;
+
+  /* COLOR: Muted grey to signal supporting content */
+  color: #666666;
+  
+  line-height: 1.6;
+}
+```
+
+### Key Educational Concepts
+*   **Scale:** By using `clamp()`, you ensure that the size ratio between headings and body text remains consistent, preserving the visual hierarchy on any device.
+*   **Weight:** Heavier weights (e.g., `900`) increase the "optical volume" of text, making it appear more urgent or important than regular weights (e.g., `400`).
+*   **Color:** Using high-contrast colors for headings and lower-contrast colors for body text creates a "pathway" for the eye, leading the user from the most important headline to the supporting details.
+
+
 ### Summary
 
 Visual hierarchy in typography is the art of prioritizing information. By thoughtfully applying scale, designers establish the "order of operations" for the user's eyes. By utilizing weight, they create structural emphasis and variety. Through the strategic use of color and contrast, they ensure both accessibility and focus. Together, these elements form a cohesive system that respects the user’s time and cognitive energy, turning a simple webpage into a functional tool for communication.
