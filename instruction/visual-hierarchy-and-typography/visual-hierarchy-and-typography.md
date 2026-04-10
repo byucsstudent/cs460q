@@ -29,13 +29,15 @@ In professional web design, we often use a **Modular Scale**. This is a sequence
 
 Using a consistent scale ensures that the difference between an H1 (the primary page title) and an H2 (a section subhead) is distinct enough for the user to perceive the change in "level" instantly. A common mistake is making headings too similar in size to the body text, which flattens the hierarchy and confuses the structural relationship of the content.
 
-![topography.png](topography.png)
+> ![topography.png](topography.png)
 
 ### The Power of Typographic Weight
 
 Weight refers to the thickness of the character strokes. Most web fonts come in a variety of weights, typically ranging from Thin (100) to Black (900). Weight is a powerful tool for creating emphasis without changing the layout's footprint.
 
 A bold heading (e.g., 700 weight) paired with a regular weight body (400) creates a "pop" that allows the heading to stand out even if the size difference is minimal. This is particularly useful in dense interfaces, such as data dashboards or mobile applications, where screen real estate is limited. 
+
+![fontWeight.png](fontWeight.png)
 
 When applying weight, designers must be cautious of "faux bolding"—a browser-generated thickening of a font that occurs when the specific bold weight of a typeface hasn't been loaded. This results in blurry, illegible text. Always ensure your CSS `@font-face` declarations include the specific weights you intend to use.
 
