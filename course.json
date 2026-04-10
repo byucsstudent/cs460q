@@ -229,7 +229,7 @@
           "state": "published",
           "interactions": [],
           "description": "Discuss the use of scale, color, and weight in typography to guide the user's eye toward the most important information.",
-          "commit": "c0fec090ae664302d7f43ca83773071fc71d5855"
+          "commit": "edef82d57c20b6706ac722656b36189c902b4e91"
         },
         {
           "title": "WCAG Demo",
