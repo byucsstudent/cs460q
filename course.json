@@ -237,9 +237,11 @@
           "path": "instruction/color-theory-and-contrast-requirements/color-theory-and-contrast-requirements.md",
           "id": "58b35257-1ed0-4537-a336-118db5191a0d",
           "state": "published",
-          "interactions": [],
+          "interactions": [
+            "d2429bef-8256-4bcb-a5f5-cb6527dc0093"
+          ],
           "description": "Analyze the psychological impact of color and the technical requirements for color contrast to ensure readability and accessibility.",
-          "commit": "82eadfc23e83b43eaaefe1d584482ecd83007830"
+          "commit": "e3f71f2f1425333aea0024f064658d5f2961e445"
         },
         {
           "title": "WCAG Demo",
