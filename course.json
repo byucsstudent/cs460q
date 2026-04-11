@@ -297,7 +297,9 @@
           "path": "instruction/design-systems-and-component-libraries/design-systems-and-component-libraries.md",
           "id": "f7ee1d31-ffa7-42c7-85de-6d94de24a0fc",
           "state": "published",
-          "description": "Explain the benefit of using design systems to maintain consistency and efficiency across large-scale web projects."
+          "interactions": [],
+          "description": "Explain the benefit of using design systems to maintain consistency and efficiency across large-scale web projects.",
+          "commit": "f6939fa410e0b9413975ad791b3fc7fdd487e5e0"
         }
       ]
     },
