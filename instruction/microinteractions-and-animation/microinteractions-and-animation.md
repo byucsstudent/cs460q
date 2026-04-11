@@ -1,6 +1,6 @@
 # Microinteractions and Animation
 
-In the world of web design, we often focus on the "big" things: the navigation structure, the layout of the homepage, or the complexity of a checkout flow. However, what often separates a functional website from a truly professional and intuitive experience are the small, almost invisible moments of interaction. These are known as microinteractions. Whether it is the subtle change in a button's color when you hover over it, the satisfying "pop" of a notification bell, or the smooth sliding motion of a mobile menu, these details provide the "human" touch to digital interfaces.
+In the world of web design, we often focus on the "big" things: the navigation structure, the layout of the homepage, or the complexity of a checkout flow. However, what often separates a functional website from a truly professional and intuitive experience are the small, almost invisible moments of interaction. These are known as **microinteractions**. Whether it is the subtle change in a button's color when you hover over it, the satisfying "pop" of a notification bell, or the smooth sliding motion of a mobile menu, these details provide the "human" touch to digital interfaces.
 
 Microinteractions are the functional details that serve a single task. While they may seem like mere "eye candy," they are deeply rooted in Human-Computer Interaction (HCI) principles. They bridge the gap between the user’s mental model and the system’s state, reducing cognitive load by providing immediate, visual confirmation of an action.
 
@@ -15,6 +15,8 @@ The second component is **Rules**. These are the "if-this-then-that" logic of th
 The third component is **Feedback**. This is arguably the most important part for the user. Feedback is how the system communicates that the rules are being followed. It is the visual, auditory, or haptic response—like a progress bar filling up or a subtle vibration on a smartphone.
 
 Finally, there are **Loops and Modes**. Loops determine how long the interaction lasts and if it repeats (like a loading spinner that loops until data is fetched). Modes are temporary states where the interaction changes the standard behavior of the interface, such as a "long press" on a mobile icon that enables an "edit mode."
+
+![microInteraction.png](microInteraction.png)
 
 ## Reducing the Gulf of Evaluation
 
