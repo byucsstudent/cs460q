@@ -114,6 +114,15 @@ Despite their benefits, design systems are not a "set it and forget it" solution
     *   *Solution:* Create clear documentation and a "contribution model" where developers can suggest improvements or new components to the system.
 *   **Design System Debt:** As technology evolves, components can become outdated.
     *   *Solution:* Treat the design system as a product itself, with its own roadmap, versioning (e.g., using Semantic Versioning like v1.0.0), and dedicated maintenance team.
+*   **Overly consistent:** Using the popular css or web frameworks reduces user cognitive load, but it can also make your application forgetable as it blends in with the crowd.
+    *   *Solution:* Embrace consistency but look for ways to distiguish yourself. This can be superior content presentation and navigation or pushing some patterns to an extreme such as when Google moved to extreme use of whitespace on their homepage.
+
+
+```masteryls
+{"id":"df2b7646-9fc1-41ea-ae23-e505b0efa928", "title":"Essay", "type":"essay" }
+Describe a website you have used that is **Overly consistent**.
+```
+
 
 ## Real-World Examples
 
