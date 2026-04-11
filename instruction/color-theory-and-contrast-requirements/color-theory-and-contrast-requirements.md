@@ -74,6 +74,13 @@ To ensure your designs are effective, you should integrate testing into your wor
 2.  **Simulate Color Blindness:** Use software like Adobe XD, Figma, or browser "Vision Deficiency" emulators to see your site through the eyes of someone with color blindness.
 3.  **The Squint Test:** Squint at your design until the text is unreadable. The elements that still stand out are your primary focal points. If your CTA button disappears, your color contrast is likely too low.
 
+
+```masteryls
+{"id":"d2429bef-8256-4bcb-a5f5-cb6527dc0093", "title":"Impact of color", "type":"essay" }
+How does color impact your users?
+```
+
+
 ## Summary
 
 Color is a multi-dimensional tool in web design that bridges the gap between human emotion and technical functionality. By understanding color psychology, we can influence user behavior and establish brand trust. By adhering to WCAG contrast ratios, we fulfill our ethical and professional responsibility to create an inclusive web. 
