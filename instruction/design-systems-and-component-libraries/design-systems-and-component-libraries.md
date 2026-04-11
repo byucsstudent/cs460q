@@ -86,6 +86,8 @@ One of the most influential frameworks for building these systems was introduced
 
 By thinking in atoms and molecules, designers and developers can ensure that the "Search" button in the header is the exact same component as the "Search" button in the footer, ensuring a predictable user experience.
 
+Atomic design reinforces the software engineering practice of reusable modular design. The creates continuity and decreases the cognitive load of the user.
+
 ## HCI Principles and the Power of Consistency
 
 The shift toward design systems is deeply rooted in Human-Computer Interaction (HCI) principles. One of the most famous guidelines is **Jakob’s Law**, which states that users spend most of their time on *other* sites. This means users prefer your site to work the same way as all the other sites they already know.
