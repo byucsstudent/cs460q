@@ -284,7 +284,11 @@
           "path": "instruction/common-ui-mistakes-and-anti-patterns/common-ui-mistakes-and-anti-patterns.md",
           "id": "106ea47e-a846-4a96-92c8-88ef7d3ff1bb",
           "state": "published",
-          "description": "Identify frequent web design errors, such as 'dark patterns' and confusing iconography, and provide better alternatives."
+          "interactions": [
+            "d80d1fb1-90cf-4300-9b8e-4a4bdfc1ad96"
+          ],
+          "description": "Identify frequent web design errors, such as 'dark patterns' and confusing iconography, and provide better alternatives.",
+          "commit": "2e671b10b7b962d3a962173ffdb532386c4ea023"
         },
         {
           "title": "Design Systems and Component Libraries",
