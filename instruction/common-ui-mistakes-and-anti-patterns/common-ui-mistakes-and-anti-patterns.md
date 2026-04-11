@@ -43,6 +43,18 @@ Effective UI design always answers three questions for the user:
 2. What just happened?
 3. What can I do next?
 
+
+```masteryls
+{"id":"5cfe77de-e89a-4cb9-ab4a-0219a16f0ca9", "title":"Maintaining User Context and Feedback", "type":"multiple-choice"}
+To prevent user disorientation and help them understand their current location, the result of their recent actions, and the requirements for the next step, which design strategy is most effective?
+
+- [ ] Relying on abstract, unlabelled icons to save screen space while using the browser's "Back" button as the primary way to navigate previous steps
+- [x] Implementing breadcrumbs for location, clear status messages for completed actions, and a visible progress indicator for sequential tasks
+- [ ] Using "infinite scroll" and removing the global navigation bar to keep the user focused solely on the content currently being viewed
+- [ ] Automatically redirecting the user to a generic confirmation page after every click to ensure they know the system is processing their request
+```
+
+
 ## Common Challenges and Better Alternatives
 
 Transitioning from poor patterns to best practices often involves overcoming the pressure to follow "trends" that may not be functional.
