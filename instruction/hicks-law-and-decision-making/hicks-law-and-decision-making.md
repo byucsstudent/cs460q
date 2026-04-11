@@ -2,6 +2,10 @@
 
 In the realm of Human-Computer Interaction (HCI), we often focus on making interfaces "intuitive" or "fast." However, speed isn't just about how quickly a server responds or how fast a user can move their mouse; it is also about how quickly a human mind can process information and arrive at a decision. This is where Hick’s Law (or the Hick-Hyman Law) becomes a vital tool for web designers. Named after psychologists William Edmund Hick and Ray Hyman, this law describes the time it takes for a person to make a decision as a result of the possible choices they have: increasing the number of choices will increase the decision time logarithmically.
 
+> "The time it takes for a person to make a decision increases with the number of choices."
+>
+> _Hick's Law_
+
 Hick’s Law is the scientific foundation for the "less is more" philosophy. It provides a mathematical justification for simplifying interfaces, streamlining navigation, and reducing the cognitive burden placed on users. By understanding the relationship between choice and reaction time, you can move beyond aesthetic preferences and make design decisions rooted in human psychology.
 
 ![hicks.png](hicks.png)
