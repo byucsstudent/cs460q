@@ -11,7 +11,66 @@ To understand how a design system functions, it is helpful to distinguish betwee
 A **Style Guide** focuses on the visual identity of a brand—colors, typography, logos, and brand voice. A **Component Library** is the technical implementation of that style guide, consisting of reusable code snippets (usually in frameworks like React, Vue, or standard CSS/HTML) that developers can drop into a project. A true **Design System** encompasses both of these, along with a set of shared values, governance models, and documentation that explains not just *what* a component looks like, but *why* and *how* it should be used.
 
 ### Design Tokens: The Smallest Units
-At the most granular level, design systems utilize "Design Tokens." These are names used to express design decisions in a platform-agnostic way. Instead of hard-coding a hex value like `#007bff` across a codebase, a developer uses a token like `color-primary-action`. If the brand decides to change its primary blue to a different shade, the team only needs to update the value in one place, and it propagates across the entire ecosystem. This abstraction is essential for maintaining consistency across different platforms (iOS, Android, and Web).
+At the most granular level, design systems utilize "Design Tokens." These are names used to express design decisions in a platform-agnostic way. Instead of hard-coding a hex value like `#007bff` across a codebase, a developer uses a token like `color-primary-action`. If the brand decides to change its primary blue to a different shade, the team only needs to update the value in one place, and it propagates across the entire ecosystem.
+
+
+By centralizing values like colors, typography, and spacing into a structured format (typically JSON), large-scale projects can maintain visual consistency across different platforms (Web, iOS, Android) and update global styles instantly from a single file.
+
+#### 1. Token Definition (JSON)
+This format serves as the "source of truth." It is easily exported from design tools and can be transformed into various code formats.
+
+```json
+{
+  "color": {
+    "brand": {
+      "primary": { "value": "#0052CC", "type": "color" },
+      "secondary": { "value": "#0747A6", "type": "color" }
+    },
+    "status": {
+      "success": { "value": "#36B37E", "type": "color" },
+      "error": { "value": "#FF5630", "type": "color" }
+    }
+  },
+  "spacing": {
+    "xs": { "value": "4px", "type": "dimension" },
+    "md": { "value": "16px", "type": "dimension" },
+    "xl": { "value": "32px", "type": "dimension" }
+  },
+  "font": {
+    "size": {
+      "base": { "value": "16px", "type": "dimension" },
+      "h1": { "value": "32px", "type": "dimension" }
+    }
+  }
+}
+```
+
+#### 2. Implementation (CSS Custom Properties)
+In a web project, the JSON tokens are transformed into CSS variables. This ensures that developers use standardized values rather than arbitrary "magic numbers," significantly increasing efficiency and reducing technical debt.
+
+```css
+/* Automatically generated from design tokens */
+:root {
+  --color-brand-primary: #0052CC;
+  --color-status-success: #36B37E;
+  --spacing-md: 16px;
+  --font-size-h1: 32px;
+}
+
+/* Application of tokens in components */
+.alert-success {
+  background-color: var(--color-status-success);
+  padding: var(--spacing-md);
+  border-radius: var(--spacing-xs);
+}
+
+.main-heading {
+  color: var(--color-brand-primary);
+  font-size: var(--font-size-h1);
+  margin-bottom: var(--spacing-xl);
+}
+```
+
 
 ## Atomic Design Methodology
 
