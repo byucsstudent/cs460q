@@ -264,7 +264,9 @@
           "path": "instruction/microinteractions-and-animation/microinteractions-and-animation.md",
           "id": "8ab91a9d-3f75-431f-bf59-d8507665f00a",
           "state": "published",
-          "description": "Explore how small animations and interactions can provide status updates and delight users without becoming a distraction."
+          "interactions": [],
+          "description": "Explore how small animations and interactions can provide status updates and delight users without becoming a distraction.",
+          "commit": "7c364e35f34a6b6ff5621d215f9a8fd2ce3c658c"
         },
         {
           "title": "Common UI Mistakes and Anti Patterns",
