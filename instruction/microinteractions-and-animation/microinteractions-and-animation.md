@@ -34,6 +34,8 @@ One of the most important concepts in UI animation is **Easing**. In the physica
 
 Consider the "Pull-to-Refresh" gesture popularized by Loren Brichter. It uses animation to show the user they are pulling against a "rubber band" (anticipation), provides a spinner (feedback), and then snaps back (completion). This sequence teaches the user how the feature works without a single word of instruction.
 
+![animation.gif](animation.gif)
+
 [Experiment with animation](/course/ede2e6ad-1b55-4ddb-8d4b-e04beff16b9f/topic/bcb92d7b-2c61-45d9-b65e-8563b7896506)
 
 ## Designing for Delight without Distraction
