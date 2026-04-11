@@ -32,17 +32,13 @@ One of the most critical tools for blind users is the **Screen Reader** (such as
 
 For images, "Alt Text" (alternative text) is mandatory. An image of a "Submit" button should have alt text that says "Submit," while a decorative background image should have an empty alt attribute (`alt=""`) so the screen reader knows to skip it.
 
-![colorBlind.png](colorBlind.png)
-
 
 
 For users with low vision or color blindness, contrast is king. WCAG AA standards require a contrast ratio of at least 4.5:1 for normal text and 3:1 for large text. Furthermore, never use color as the *only* visual means of conveying information. For example, an error message should not just be red text; it should also include an icon or an explicit text label like "Error:" to ensure users who cannot perceive red can still understand the state of the system.
 
+![colorBlind.png](colorBlind.png)
 
-```masteryls
-{"id":"26ab1e89-ede7-4359-8885-b3cb90f87f2f", "title":"Visual impairments", "type":"essay" }
-What should you consider when designing for visual impairments?
-```
+[Experiment with color blindness](/course/ede2e6ad-1b55-4ddb-8d4b-e04beff16b9f/topic/8a360eb2-d2ab-4c86-bf65-fa74edbca13c)
 
 
 ## Designing for Motor and Physical Impairments
@@ -70,6 +66,12 @@ A frequent challenge in modern web design is the use of **Single Page Applicatio
 
 Another challenge is the "Accessibility Overlay" or "Automated Plugin" trap. Many companies sell scripts that claim to fix all accessibility issues automatically. 
 *   **Solution:** Avoid these. True accessibility requires intentional design and semantic code. Overlays often interfere with the user's own assistive technology and fail to fix fundamental issues like poor heading structures or confusing navigation logic.
+
+
+```masteryls
+{"id":"26ab1e89-ede7-4359-8885-b3cb90f87f2f", "title":"Visual impairments", "type":"essay" }
+What should you consider when designing for visual impairments?
+```
 
 ## Thoughtful Engagement: The "No-Mouse" Challenge
 
