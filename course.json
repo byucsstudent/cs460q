@@ -315,7 +315,9 @@
           "path": "instruction/nielsens-ten-usability-heuristics/nielsens-ten-usability-heuristics.md",
           "id": "33be71d4-4db6-411d-938d-93353e75e09d",
           "state": "published",
-          "description": "Detail the ten general principles for user interface design and how they serve as a checklist for evaluation."
+          "interactions": [],
+          "description": "Detail the ten general principles for user interface design and how they serve as a checklist for evaluation.",
+          "commit": "fe701afd49c5d71ca8e590fbab00ac50067a8b58"
         },
         {
           "title": "Conducting a Heuristic Evaluation",
