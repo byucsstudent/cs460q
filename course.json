@@ -244,6 +244,13 @@
           "commit": "e3f71f2f1425333aea0024f064658d5f2961e445"
         },
         {
+          "title": "Color Blindness Demo",
+          "type": "embedded",
+          "path": "https://leesjensen.com/demo/colorBlind.html",
+          "id": "8a360eb2-d2ab-4c86-bf65-fa74edbca13c",
+          "description": "https://leesjensen.com/demo/colorBlind.html"
+        },
+        {
           "title": "WCAG Demo",
           "type": "embedded",
           "path": "https://leesjensen.com/demo/wcag.html",
@@ -274,13 +281,6 @@
           "id": "f7ee1d31-ffa7-42c7-85de-6d94de24a0fc",
           "state": "published",
           "description": "Explain the benefit of using design systems to maintain consistency and efficiency across large-scale web projects."
-        },
-        {
-          "title": "Color Blindness Demo",
-          "type": "embedded",
-          "path": "https://leesjensen.com/demo/colorBlind.html",
-          "id": "8a360eb2-d2ab-4c86-bf65-fa74edbca13c",
-          "description": "https://leesjensen.com/demo/colorBlind.html"
         }
       ]
     },
