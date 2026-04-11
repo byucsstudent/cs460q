@@ -17,31 +17,51 @@ Rather than being rigid laws, these heuristics serve as broad principles for int
 | **9. Error recovery** | Provide helpful, clear error messages. |
 | **10. Help & documentation** | Offer accessible, task-focused help. |
 
-## Visibility of System Status
+## 1. Visibility of System Status
+
+> [!TIP]
+>
+> Keep the user informed
 
 The first heuristic dictates that the system should always keep users informed about what is going on, through appropriate feedback within a reasonable time. When a user interacts with a system, they need to know that their action was registered. Without feedback, users feel anxious and may repeat actions unnecessarily, such as clicking a "Submit" button multiple times because they aren't sure if the first click worked.
 
 A classic example is the progress bar. When downloading a large file or uploading an image, a progress bar tells the user that the system is working and how much longer they need to wait. In web development, this might also look like a "loading" spinner or a change in button color once it has been pressed. The goal is to eliminate uncertainty.
 
-## Match Between System and the Real World
+## 2. Match Between System and the Real World
+
+> [!TIP]
+>
+> Leverage real world experience
 
 The system should speak the users' language, using words, phrases, and concepts familiar to the user, rather than system-oriented terms. This principle relies heavily on the concept of mental models—the internal map a user has of how something should work based on their real-world experience.
 
-For instance, the "trash" or "recycle bin" icon on a desktop is a direct metaphor for a physical object. In web design, avoid using technical jargon like "Error 404: Null Pointer Exception" in user-facing messages. Instead, use natural language like "We can't find the page you're looking for." By following real-world conventions, you make the interface feel intuitive and reduce the cognitive load on the user.
+For instance, the "trash" or "recycle bin" icon on a desktop is a direct metaphor for a physical object. In web design, avoid using technical jargon like "Error 404: Null Pointer Exception" in user-facing messages. Instead, use natural language like "We can't find the page you're looking for". By following real-world conventions, you make the interface feel intuitive and reduce the cognitive load on the user.
 
-## User Control and Freedom
+## 3. User Control and Freedom
+
+> [!TIP]
+>
+> Taking away user control diminishes trust
 
 Users often perform actions by mistake and need a clearly marked "emergency exit" to leave the unwanted state without having to go through an extended dialogue. This heuristic is about giving power back to the user. When a user feels trapped by an interface, their trust in the system diminishes.
 
 The most common implementation of this is the "Undo" and "Redo" functionality. In web forms, this might be a "Cancel" button that returns the user to the previous page without saving changes. If a user accidentally deletes an email, a simple "Undo" toast notification provides the freedom to fix the mistake immediately.
 
-## Consistency and Standards
+## 4. Consistency and Standards
+
+> [!TIP]
+>
+> Deviating from standards leads to confusion not innovation
 
 Users should not have to wonder whether different words, situations, or actions mean the same thing. This is often referred to as Jakob’s Law: "Users spend most of their time on other sites." This means they expect your site to work similarly to all the other sites they already know.
 
 Consistency comes in two forms: internal and external. Internal consistency means that if you use a blue button for "Save" on one page, you shouldn't use a green button for "Save" on another. External consistency means following industry standards. For example, most users expect the company logo in the top-left corner to take them back to the homepage. Deviating from these standards usually leads to confusion rather than innovation.
 
-## Error Prevention
+## 5. Error Prevention
+
+> [!TIP]
+>
+> Better to prevent rather than repair
 
 Even better than good error messages is a careful design which prevents a problem from occurring in the first place. We categorize errors into two types: slips and mistakes. Slips occur when a user intends to do one thing but does another (like a typo). Mistakes occur when the user has a wrong mental model of how the system works.
 
@@ -50,25 +70,41 @@ Practical examples of error prevention include:
 *   Using a date picker instead of a text field to prevent formatting errors.
 *   Providing a confirmation dialog before a permanent action, like "Are you sure you want to delete this folder?"
 
-## Recognition Rather Than Recall
+## 6. Recognition Rather Than Recall
+
+> [!TIP]
+>
+> Prime the user's memory
 
 The user should not have to remember information from one part of the interface to another. Human short-term memory is limited. Minimize the user's memory load by making objects, actions, and options visible. 
 
 A great example of this is the "Recently Viewed" section on e-commerce sites. Instead of forcing the user to remember the exact name of a product they looked at ten minutes ago, the system recognizes their history and displays it. Similarly, search bars that provide "auto-suggestions" help users recognize the term they are looking for rather than forcing them to recall the exact spelling.
 
-## Flexibility and Efficiency of Use
+## 7. Flexibility and Efficiency of Use
+
+> [!TIP]
+>
+> Facilitate diversity of use
 
 Design should cater to both inexperienced and experienced users. While a novice needs step-by-step guidance, an expert user wants "accelerators"—features that speed up the interaction for the power user.
 
 Think about keyboard shortcuts (like Ctrl+C and Ctrl+V). They are invisible to the novice but provide immense efficiency for the expert. In web applications, this might include the ability to skip tutorials, use advanced search filters, or customize a dashboard layout. Your design should be simple enough for a first-time visitor but powerful enough for a daily user.
 
-## Aesthetic and Minimalist Design
+## 8. Aesthetic and Minimalist Design
+
+> [!TIP]
+>
+> Simple is better
 
 Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. This is often called the "signal-to-noise ratio."
 
 Modern web design favors whitespace and "flat" design to keep the focus on the content. A common mistake in web development is trying to cram too much information "above the fold." Instead, prioritize the most important tasks and hide secondary information behind menus or "read more" links. Remember: less is often more.
 
-## Help Users Recognize, Diagnose, and Recover from Errors
+## 9. Help Users Recognize, Diagnose, and Recover from Errors
+
+> [!TIP]
+>
+> Make errors actionable
 
 When errors do occur, the messages should be expressed in plain language (no codes), precisely indicate the problem, and constructively suggest a solution. 
 
@@ -77,11 +113,30 @@ A good error message says: "Your password must include at least one capital lett
 
 By providing a path to recovery, you prevent the user from feeling stuck or frustrated. Visual cues, like highlighting the specific form field that caused the error in red, also help the user diagnose the problem quickly.
 
-## Help and Documentation
+## 10. Help and Documentation
+
+> [!TIP]
+>
+> Provide increasing layers of help
 
 Ideally, a system should be so easy to use that it doesn't need documentation. However, it may be necessary to provide help that is easy to search, focused on the user's task, and lists concrete steps to be carried out.
 
 Documentation should not be a massive manual. Instead, consider "contextual help," such as tooltips that appear when hovering over a complex icon, or a searchable FAQ section. For complex web applications, a short "onboarding" tour can be an effective way to provide help right when the user starts.
+
+
+
+| Layer | Description |
+|----------|----------|
+| Orientation | Optional onborading tour |
+| Convention | Follows expected standards |
+| Inplace | Tooltip with description |
+| Feedback | In context messages |
+| External Documentation | Tutorials and instructions |
+| AI | Context sensitive feedback and discussion |
+| Community | User or product question forums |
+| Live support | Interactive live representatives |
+
+
 
 ## Challenges in Applying Heuristics
 
