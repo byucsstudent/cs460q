@@ -66,12 +66,15 @@ Furthermore, any animation that lasts longer than five seconds or plays automati
 Designing microinteractions comes with several practical challenges that require a balance of technical skill and design intuition.
 
 **Performance Issues:** Complex animations can tax a device's CPU and GPU, leading to "jank" or stuttering. 
+
 *Solution:* Stick to animating properties that browsers can handle efficiently, such as `transform` (scale, rotate, translate) and `opacity`. Avoid animating properties like `height`, `width`, or `margin`, as these trigger expensive layout recalculations.
 
 **The "Uncanny Valley" of UI:** Sometimes an animation feels "off" because it doesn't match the brand or the context of the site.
+
 *Solution:* Establish a "Motion Language" for your design system. Decide if your brand is energetic (fast, bouncy transitions) or professional (smooth, subtle fades). Consistency across all microinteractions builds a cohesive user experience.
 
 **Over-Complexity:** It is easy to get carried away with modern CSS and JavaScript libraries.
+
 *Solution:* Always ask, "Does this animation help the user understand what just happened?" If the answer is no, remove it.
 
 ## Summary
