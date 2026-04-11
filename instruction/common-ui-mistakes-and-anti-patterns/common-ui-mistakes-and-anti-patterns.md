@@ -54,6 +54,13 @@ Transitioning from poor patterns to best practices often involves overcoming the
 *   **Challenge: Intrusive Modals and Overlays.** We have all visited sites where, within two seconds, a newsletter sign-up covers the entire screen.
     *   **Alternative:** Use "polite" patterns. Wait until the user has finished an article or has shown intent to leave before presenting a call-to-action, or use a non-blocking banner at the bottom of the screen.
 
+
+```masteryls
+{"id":"d80d1fb1-90cf-4300-9b8e-4a4bdfc1ad96", "title":"Anti-Patterns", "type":"essay" }
+Discuss additional anti-patterns that you have experienced.
+```
+
+
 ## Summary
 
 UI design is a balance between business goals, aesthetic appeal, and functional usability. Mistakes often happen when we lose sight of the user's perspective, while anti-patterns occur when we intentionally or unintentionally prioritize the system over the human. By avoiding deceptive patterns, ensuring clear iconography, maintaining a strong visual hierarchy, and providing constant feedback, we create digital environments that are both helpful and ethical. 
