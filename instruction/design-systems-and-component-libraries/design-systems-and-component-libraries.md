@@ -82,11 +82,17 @@ One of the most influential frameworks for building these systems was introduced
 *   **Templates:** At this stage, we move from the abstract to the concrete. Templates consist of organisms stitched together to form a page layout, focusing on the underlying content structure rather than final high-fidelity content.
 *   **Pages:** These are specific instances of templates that show what the UI looks like with real representative content (images, text, and data) in place.
 
+![atomicDesign.png](atomicDesign.png)
+
 By thinking in atoms and molecules, designers and developers can ensure that the "Search" button in the header is the exact same component as the "Search" button in the footer, ensuring a predictable user experience.
 
 ## HCI Principles and the Power of Consistency
 
 The shift toward design systems is deeply rooted in Human-Computer Interaction (HCI) principles. One of the most famous guidelines is **Jakob’s Law**, which states that users spend most of their time on *other* sites. This means users prefer your site to work the same way as all the other sites they already know.
+
+> "Users spend most of their time on *other* sites."
+>
+> _Jacob's Law_
 
 When a design system is applied correctly, it reinforces a user's **mental model**. If every "Cancel" button in your application is gray and every "Confirm" button is green, the user learns this pattern quickly. This reduces **cognitive load**—the amount of mental effort required to use the interface. If a user has to stop and think, "Is this button going to delete my data or save it?" because the styling is inconsistent, the design has failed. Design systems automate the "easy" decisions (like color and spacing) so that the user can focus on the "hard" tasks (like completing a complex workflow).
 
