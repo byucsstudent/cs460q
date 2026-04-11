@@ -2,8 +2,6 @@
 
 In the field of Human-Computer Interaction (HCI), we often look for universal truths that can guide us through the complex process of interface design. While every project has its unique constraints, certain "rules of thumb" have stood the test of time. These are known as heuristics. Developed by Jakob Nielsen in 1994, the Ten Usability Heuristics are perhaps the most cited and utilized framework for evaluating the usability of a user interface. 
 
-![image.png](image.png)
-
 Rather than being rigid laws, these heuristics serve as broad principles for interaction design. They are called "heuristics" because they are general rules of thumb and not specific usability guidelines. When you perform a heuristic evaluation—a process you will explore later in this module—you use these ten points as a checklist to identify where a design might be failing its users. For an undergraduate developer, mastering these principles is the difference between building a site that merely "works" and building one that provides a seamless, intuitive experience.
 
 | Heuristic | Description |
