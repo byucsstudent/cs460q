@@ -206,6 +206,7 @@
           "type": "embedded",
           "path": "https://leesjensen.com/demo/colorBlind.html",
           "id": "8a360eb2-d2ab-4c86-bf65-fa74edbca13c",
+          "state": "published",
           "description": "https://leesjensen.com/demo/colorBlind.html"
         },
         {
@@ -264,9 +265,11 @@
           "path": "instruction/microinteractions-and-animation/microinteractions-and-animation.md",
           "id": "8ab91a9d-3f75-431f-bf59-d8507665f00a",
           "state": "published",
-          "interactions": [],
+          "interactions": [
+            "cdce44cc-b617-427f-a6fc-31e266d84c44"
+          ],
           "description": "Explore how small animations and interactions can provide status updates and delight users without becoming a distraction.",
-          "commit": "7c364e35f34a6b6ff5621d215f9a8fd2ce3c658c"
+          "commit": "362bb86023205283c34f5b182bf18b833a30173c"
         },
         {
           "title": "Common UI Mistakes and Anti Patterns",
