@@ -199,7 +199,7 @@
             "26ab1e89-ede7-4359-8885-b3cb90f87f2f"
           ],
           "description": "Introduce the Web Content Accessibility Guidelines (WCAG) and explain how to design for users with visual, auditory, or motor impairments.",
-          "commit": "f2a219aedd7bf9666d5b120a63dd5ebff60fe2bd"
+          "commit": "f24518f5fcd18b050a71fb72ee7d8d7ea9dd88d1"
         },
         {
           "title": "Responsive Design and Mobile Contexts",
