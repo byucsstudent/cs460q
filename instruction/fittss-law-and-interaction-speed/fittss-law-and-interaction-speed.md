@@ -2,6 +2,12 @@
 
 In the realm of Human-Computer Interaction (HCI), we often search for ways to quantify the user experience. While "good design" can sometimes feel subjective, Fitts’s Law provides a robust, mathematical foundation for understanding how humans interact with physical and digital interfaces. Named after psychologist Paul Fitts, who first proposed it in 1954, this law predicts the time required to move to a target area based on the distance to the target and the size of the target itself.
 
+
+> "The time required to move to a target area based on the distance to the target and the size of the target itself."
+>
+> _Fitts's Law_
+
+
 For web developers and designers, Fitts’s Law is more than just a psychological theory; it is a practical tool for optimizing layout, improving navigation speed, and reducing user frustration. By understanding the relationship between movement and accuracy, we can create interfaces that feel "snappy" and intuitive rather than cumbersome.
 
 ## The Mathematical Foundation
