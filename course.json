@@ -286,6 +286,13 @@
           "id": "f7ee1d31-ffa7-42c7-85de-6d94de24a0fc",
           "state": "published",
           "description": "Explain the benefit of using design systems to maintain consistency and efficiency across large-scale web projects."
+        },
+        {
+          "title": "Animation Demo",
+          "type": "embedded",
+          "path": "https://leesjensen.com/demo/animation.html",
+          "id": "bcb92d7b-2c61-45d9-b65e-8563b7896506",
+          "description": "https://leesjensen.com/demo/animation.html"
         }
       ]
     },
