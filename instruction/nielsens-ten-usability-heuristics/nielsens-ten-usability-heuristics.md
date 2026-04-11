@@ -148,9 +148,12 @@ Another challenge is **Subjectivity**. What one designer considers "minimalist,"
 
 Nielsen’s Ten Usability Heuristics provide a foundational framework for creating user-centered designs. By focusing on visibility, consistency, and error prevention, you can create web interfaces that feel natural and efficient. As you move forward into conducting your own heuristic evaluations and planning usability tests, keep these principles at the forefront of your mind. They are the lens through which you should view every button, menu, and form you develop.
 
-**Reflect:** Look at your favorite social media platform or web application. Can you identify one instance where they successfully follow a heuristic and one instance where they might be violating one? How does that violation affect your experience as a user?
 
-***
+```masteryls
+{"id":"9435a938-a8a5-4cce-a9c5-ca5a9567fe29", "title":"Nielsen's Heuristics", "type":"essay" }
+Look at your favorite social media platform or web application. Can you identify one instance where they successfully follow a heuristic and one instance where they might be violating one? How does that violation affect your experience as a user?
+```
+
 
 ### External Resources
 *   [NN/g: 10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/) – The original source and detailed articles for each heuristic.
