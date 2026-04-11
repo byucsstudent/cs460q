@@ -317,7 +317,7 @@
           "state": "published",
           "interactions": [],
           "description": "Detail the ten general principles for user interface design and how they serve as a checklist for evaluation.",
-          "commit": "fe701afd49c5d71ca8e590fbab00ac50067a8b58"
+          "commit": "9d02135b5bdcca70d628bd1cd5755dc43e1d0c5f"
         },
         {
           "title": "Conducting a Heuristic Evaluation",
