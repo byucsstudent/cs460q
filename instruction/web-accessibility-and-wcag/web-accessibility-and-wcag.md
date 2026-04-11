@@ -32,6 +32,10 @@ One of the most critical tools for blind users is the **Screen Reader** (such as
 
 For images, "Alt Text" (alternative text) is mandatory. An image of a "Submit" button should have alt text that says "Submit," while a decorative background image should have an empty alt attribute (`alt=""`) so the screen reader knows to skip it.
 
+![colorBlind.png](colorBlind.png)
+
+
+
 For users with low vision or color blindness, contrast is king. WCAG AA standards require a contrast ratio of at least 4.5:1 for normal text and 3:1 for large text. Furthermore, never use color as the *only* visual means of conveying information. For example, an error message should not just be red text; it should also include an icon or an explicit text label like "Error:" to ensure users who cannot perceive red can still understand the state of the system.
 
 
