@@ -42,6 +42,13 @@ However, there is a fine line between delight and distraction. The primary rule 
 
 A good rule of thumb is: if the user doesn't consciously notice the microinteraction, but feels that the site is "smooth" or "responsive," you have succeeded. The interaction should support the task, not become the task itself.
 
+
+```masteryls
+{"id":"cdce44cc-b617-427f-a6fc-31e266d84c44", "title":"Essay", "type":"essay" }
+Discuss examples of subtle and over-animated interactions.
+```
+
+
 ## Accessibility and the "Precedence of Motion"
 
 As we integrate animation, we must remain mindful of web accessibility standards, specifically the Web Content Accessibility Guidelines (WCAG). For some users, motion can cause physical discomfort, motion sickness, or even seizures.
