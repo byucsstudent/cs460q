@@ -4,6 +4,19 @@ In the field of Human-Computer Interaction (HCI), we often look for universal tr
 
 Rather than being rigid laws, these heuristics serve as broad principles for interaction design. They are called "heuristics" because they are general rules of thumb and not specific usability guidelines. When you perform a heuristic evaluation—a process you will explore later in this module—you use these ten points as a checklist to identify where a design might be failing its users. For an undergraduate developer, mastering these principles is the difference between building a site that merely "works" and building one that provides a seamless, intuitive experience.
 
+| Heuristic | Description |
+| :--- | :--- |
+| **1. Visibility of system status** | Keep users informed with timely feedback. |
+| **2. Match to real world** | Use familiar language and concepts. |
+| **3. User control & freedom** | Provide easy exits for mistakes. |
+| **4. Consistency & standards** | Follow conventions and stay consistent. |
+| **5. Error prevention** | Prevent issues before they occur. |
+| **6. Recognition over recall** | Make options visible, not memorable. |
+| **7. Flexibility & efficiency** | Support both novice and expert users. |
+| **8. Aesthetic & minimalist design** | Remove unnecessary elements. |
+| **9. Error recovery** | Provide helpful, clear error messages. |
+| **10. Help & documentation** | Offer accessible, task-focused help. |
+
 ## Visibility of System Status
 
 The first heuristic dictates that the system should always keep users informed about what is going on, through appropriate feedback within a reasonable time. When a user interacts with a system, they need to know that their action was registered. Without feedback, users feel anxious and may repeat actions unnecessarily, such as clicking a "Submit" button multiple times because they aren't sure if the first click worked.
