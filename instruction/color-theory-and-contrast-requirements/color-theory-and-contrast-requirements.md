@@ -44,6 +44,10 @@ For those aiming for Level AAA (the highest standard), the ratio increases to **
 
 Why do these numbers matter? High contrast is essential for users with low vision or color blindness. Furthermore, high contrast benefits all users in "situational disabilities," such as trying to read a smartphone screen in direct sunlight or using a monitor with a low-quality backlight.
 
+![wcagFail.png](wcagFail.png)
+
+[Experiment with WCAG](/course/ede2e6ad-1b55-4ddb-8d4b-e04beff16b9f/topic/cd32402d-8b89-4e0c-b343-443f77c27472)
+
 ## The Von Restorff Effect in Color Design
 
 The **Von Restorff Effect**, also known as the "Isolation Effect," predicts that when multiple similar objects are present, the one that differs from the rest is most likely to be remembered. 
