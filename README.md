@@ -2,9 +2,7 @@
 
 # Introduction to Human Computer Interaction
 
-![image.png](image.png)
-
-![Course Cover](https://raw.githubusercontent.com/csinstructiontemplate/emptycourse/refs/heads/main/cover.jpg)
+![Course Cover](image.png)
 
 Welcome to the fascinating world where psychology meets pixels! In this course, we bridge the gap between "code that works" and "code that works for people." As a developer, you already know how to build functional websites, but now it’s time to master the art and science of the user experience (UX). We will dive deep into the minds of users, exploring the cognitive frameworks established by industry luminaries like Don Norman and Jakob Nielsen. You’ll learn why certain designs feel intuitive while others lead to frustration, and you'll discover that what we often call "user error" is almost always a design flaw in disguise.
 
