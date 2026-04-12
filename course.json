@@ -387,7 +387,9 @@
           "path": "instruction/capstone-part-one-discovery-and-research/capstone-part-one-discovery-and-research.md",
           "id": "9cb25c99-ebca-4fe4-b5e0-c65cc47088ea",
           "state": "published",
-          "description": "Prompt the student to define a problem statement and conduct initial user research for their capstone web project."
+          "interactions": [],
+          "description": "Prompt the student to define a problem statement and conduct initial user research for their capstone web project.",
+          "commit": "5aaca60acbe2226d0d30eb1925907733132f36db"
         },
         {
           "title": "Capstone Part Two Design and Wireframing",
