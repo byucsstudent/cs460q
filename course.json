@@ -11,7 +11,9 @@
           "path": "README.md",
           "id": "5be50f9f-eb91-4be6-b09d-b71aaf199880",
           "state": "published",
-          "description": "Provide a comprehensive introduction to the course, outlining learning objectives and the importance of HCI in modern web development."
+          "interactions": [],
+          "description": "Provide a comprehensive introduction to the course, outlining learning objectives and the importance of HCI in modern web development.",
+          "commit": "be34a37443de9ae35626e0e56a42438e00d45676"
         },
         {
           "title": "Defining Human Computer Interaction",
