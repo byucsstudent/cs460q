@@ -4,6 +4,8 @@ In the field of Human-Computer Interaction (HCI), we often look for universal tr
 ![image.png](image.png)
 ![jakobNielsen.png](jakobNielsen.png)
 
+![stack.png](stack.png)
+
 > Jakob Nielsen (_source: [NN/Group](https://www.nngroup.com/articles/author/jakob-nielsen/)_)
 
 Rather than being rigid laws, these heuristics serve as broad principles for interaction design. They are called "heuristics" because they are general rules of thumb and not specific usability guidelines. When you perform a heuristic evaluation—a process you will explore later in this module—you use these ten points as a checklist to identify where a design might be failing its users. For an undergraduate developer, mastering these principles is the difference between building a site that merely "works" and building one that provides a seamless, intuitive experience.
