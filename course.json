@@ -389,7 +389,7 @@
           "state": "published",
           "interactions": [],
           "description": "Prompt the student to define a problem statement and conduct initial user research for their capstone web project.",
-          "commit": "5aaca60acbe2226d0d30eb1925907733132f36db"
+          "commit": "d37f860bd03e415c2f2454d7563c8b125094c847"
         },
         {
           "title": "Capstone Part Two Design and Wireframing",
