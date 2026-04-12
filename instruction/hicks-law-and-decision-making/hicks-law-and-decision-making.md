@@ -6,7 +6,7 @@ In the realm of Human-Computer Interaction (HCI), we often focus on making inter
 
 > "The time it takes for a person to make a decision increases with the number of choices."
 >
-> William Hick - _source: samelogic.com [](https://samelogic.com/blog/hicks-law-a-timeless-guide-for-user-experience-design)_
+> William Hick - _source: [samelogic.com](https://samelogic.com/blog/hicks-law-a-timeless-guide-for-user-experience-design)_
 
 Hick’s Law is the scientific foundation for the "less is more" philosophy. It provides a mathematical justification for simplifying interfaces, streamlining navigation, and reducing the cognitive burden placed on users. By understanding the relationship between choice and reaction time, you can move beyond aesthetic preferences and make design decisions rooted in human psychology.
 
