@@ -1,4 +1,4 @@
-![BYU Logo](https://raw.githubusercontent.com/csinstructiontemplate/emptycourse/refs/heads/main/byulogo.png)
+![BYU Logo](logo.png)
 
 # Introduction to Human Computer Interaction
 
