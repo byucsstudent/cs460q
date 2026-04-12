@@ -59,6 +59,18 @@ One highly effective technique is the "Five Whys" method. When a user mentions a
 
 Active listening is another critical skill. This involves giving the participant your full attention, mirroring their language to show understanding, and using comfortable silence to encourage them to elaborate. Often, the most valuable insights come in the seconds after a participant finishes their initial thought, provided the interviewer doesn't rush to the next question.
 
+
+```masteryls
+{"id":"d99465fa-0ed5-42a5-ae69-02a9425d788e", "title":"Effective Interview Questions", "type":"multiple-choice"}
+When conducting a user interview to gather requirements, which of the following question formats is most effective for uncovering authentic user needs and pain points?
+
+- [ ] "Do you think our proposed dashboard design would make your daily reporting tasks easier to manage?"
+- [x] "Can you describe a specific instance in the last week where you felt frustrated while completing this task?"
+- [ ] "If we were to build a feature that automated your data entry, how much time do you think it would save you?"
+- [ ] "Is the current navigation menu in the software difficult for you to use on a regular basis?"
+```
+
+
 ## Identifying Pain Points and Requirements
 
 Once the interviews are complete, the focus shifts to synthesis. You will likely have hours of recordings or pages of notes. The goal is to identify patterns. If five out of six participants mentioned they couldn't find the "Search" bar because it was hidden behind a hamburger menu, you have identified a significant pain point.
@@ -75,13 +87,25 @@ Conducting user research is rarely a seamless process. One of the most common ch
 
 Another challenge is the **Social Desirability Bias**, where participants tell you what they think you want to hear because they want to be helpful or polite. You can mitigate this by clarifying at the start that you did not design the system being discussed and that honest, even harsh, feedback is the most helpful thing they can provide.
 
+
+```masteryls
+{"id":"71957641-3c02-4257-8652-7c1161cfc50c", "title":"The art of the interview", "type":"essay" }
+Describe some common challenges with conducting successful interviews.
+```
+
 Finally, recruiting the right participants can be difficult. It is tempting to interview friends or fellow developers, but this results in skewed data. Aim for "extreme users"—those who are very tech-savvy and those who are not—to see where the interface breaks down most easily.
 
 ## Practical Application: The Student Portal Scenario
 
+
+```masteryls
+{"id":"41bea0a7-0da0-4662-8541-f564c2ca447d", "title":"Essay", "type":"essay" }
 Imagine you are tasked with redesigning a university’s student portal. A developer might assume the most important feature is the "Latest News" feed. However, through user interviews, you discover that students almost exclusively use the portal during the first week of the semester to check their room numbers and find their digital ID cards.
 
-The interviews reveal a major pain point: the digital ID is buried four clicks deep, which is embarrassing when standing in a fast-moving cafeteria line. The resulting requirement is clear: "The digital ID must be accessible via a single tap from the home screen." This insight, which directly improves the user experience, would likely never have been discovered through internal brainstorming alone.
+The interviews reveal a major pain point: the digital ID is buried four clicks deep, which is embarrassing when standing in a fast-moving cafeteria line.
+
+How do you respond?
+```
 
 ## Summary
 
