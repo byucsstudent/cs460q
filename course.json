@@ -327,9 +327,11 @@
           "path": "instruction/conducting-a-heuristic-evaluation/conducting-a-heuristic-evaluation.md",
           "id": "c89ad1a2-09ab-4a0d-88e2-26c5c6b45cb1",
           "state": "published",
-          "interactions": [],
+          "interactions": [
+            "a92d0a26-cc0d-4306-861d-9663ca51c20c"
+          ],
           "description": "Provide a step-by-step guide on how to perform an expert review of a website using established usability heuristics.",
-          "commit": "7f536ad764578309647ef1b6b9fde8070e226032"
+          "commit": "66849609fe5cdac3663b7a4af71e0094cea44733"
         },
         {
           "title": "User Research and Interviewing",
