@@ -2,6 +2,7 @@
 
 The capstone project represents the synthesis of everything you have learned about Human-Computer Interaction (HCI) and web design. Up to this point, you have explored the theoretical underpinnings of mental models, the precision of Nielsen’s heuristics, and the technical requirements of responsive design. Now, you transition from student to practitioner. The first phase of this journey is not about writing code or even sketching layouts; it is about discovery. This phase requires you to step back from the "how" of development and focus entirely on the "why" and the "who."
 
+
 In the industry, this is often referred to as the Discovery Phase. It is the period where you validate your assumptions and ensure that the product you intend to build actually solves a real human problem. Building a technically perfect website that serves no purpose is a failure of design. By the end of this section, you will have defined a clear problem statement and gathered the foundational research necessary to guide your design decisions in the coming weeks.
 
 ## Defining the Problem Statement
