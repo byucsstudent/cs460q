@@ -1,7 +1,7 @@
 # Nielsens Ten Usability Heuristics
 
 In the field of Human-Computer Interaction (HCI), we often look for universal truths that can guide us through the complex process of interface design. While every project has its unique constraints, certain "rules of thumb" have stood the test of time. These are known as heuristics. Developed by Jakob Nielsen in 1994, the Ten Usability Heuristics are perhaps the most cited and utilized framework for evaluating the usability of a user interface. 
-
+![image.png](image.png)
 ![jakobNielsen.png](jakobNielsen.png)
 
 > Jakob Nielsen (_source: [NN/Group](https://www.nngroup.com/articles/author/jakob-nielsen/)_)
