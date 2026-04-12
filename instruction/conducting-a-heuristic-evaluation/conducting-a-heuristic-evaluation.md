@@ -72,6 +72,11 @@ One of the primary challenges in heuristic evaluation is "evaluator bias." We al
 Another challenge is missing domain-specific problems. Heuristics are general principles, and they might not catch issues related to the specific content of a site. To mitigate this, supplement your heuristic evaluation with user testing whenever possible. Heuristic evaluation finds the "obvious" UI bugs, while user testing finds the deeper workflow issues.
 
 
+```masteryls
+{"id":"a92d0a26-cc0d-4306-861d-9663ca51c20c", "title":"Heuristic Evaluation", "type":"essay" }
+Describe the process of conducting a successful heuristic evaluation.
+```
+
 
 ## Summary
 
