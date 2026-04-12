@@ -339,9 +339,13 @@
           "path": "instruction/user-research-and-interviewing/user-research-and-interviewing.md",
           "id": "ce41ab35-f636-4e53-9e18-613b12cd6853",
           "state": "published",
-          "interactions": [],
+          "interactions": [
+            "d99465fa-0ed5-42a5-ae69-02a9425d788e",
+            "71957641-3c02-4257-8652-7c1161cfc50c",
+            "41bea0a7-0da0-4662-8541-f564c2ca447d"
+          ],
           "description": "Explain techniques for gathering user requirements and conducting interviews to understand user needs and pain points.",
-          "commit": "4c292f0226bf32b8177c72b79be5c9b6c7187142"
+          "commit": "838cde8d3c47800dda7aa9ee4dd8fa990194c9e9"
         },
         {
           "title": "Planning Usability Tests",
