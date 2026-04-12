@@ -353,7 +353,9 @@
           "path": "instruction/planning-usability-tests/planning-usability-tests.md",
           "id": "7acb3b9e-1d00-43bb-9c78-cb54d721f7ad",
           "state": "published",
-          "description": "Describe how to create a test plan, including task scenarios, participant recruitment, and success metrics."
+          "interactions": [],
+          "description": "Describe how to create a test plan, including task scenarios, participant recruitment, and success metrics.",
+          "commit": "b61a564c19da55cb0e70db73ba6d8cd0c19088a5"
         },
         {
           "title": "Moderated versus Unmoderated Testing",
