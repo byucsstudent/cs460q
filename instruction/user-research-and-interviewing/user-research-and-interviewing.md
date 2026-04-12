@@ -2,9 +2,9 @@
 
 At the heart of Human-Computer Interaction (HCI) lies a fundamental truth: you are not your user. While developers and designers often rely on their own intuition to build interfaces, professional web design requires moving beyond assumptions to uncover the actual behaviors, needs, and frustrations of the people who will use the product. User research is the systematic study of target users and their requirements, providing the empirical foundation for every design decision. By engaging in rigorous research, we bridge the gap between a developer’s mental model of how a system works and the user’s mental model of how they expect it to function.
 
-![research.png](research.png)
-
 ## The Purpose of User Research
+
+![research.png](research.png)
 
 In the lifecycle of web design, user research acts as a compass. Without it, design is merely decoration. The primary goal is to gather requirements—the specific features, functions, and constraints that a website must satisfy to be successful. However, research goes deeper than a simple checklist of features. It seeks to uncover "pain points," which are specific problems that prospective users encounter with current solutions or workflows.
 
