@@ -39,6 +39,21 @@ Assigning a severity rating is crucial for help developers prioritize fixes. The
 
 By quantifying the issues, you transform a subjective list of "annoyances" into a data-driven roadmap for the design team.
 
+The following table is an example of what could be used to conduct a formal expert review. For each heuristic, record specific observations found on the website, assign a severity rating, and suggest actionable improvements.
+
+| Heuristic | Description | Observations/Findings | Severity (0-4) | Recommendations |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. Visibility of System Status** | Keep users informed with timely feedback. | | | |
+| **2. Match Between System and Real World** | Use familiar language and concepts. | | | |
+| **3. User Control and Freedom** | Provide easy exits for mistakes. | | | |
+| **4. Consistency and Standards** | Maintain consistency and follow conventions. | | | |
+| **5. Error Prevention** | Prevent problems before they occur. | | | |
+| **6. Recognition Rather than Recall** | Make options visible, not memorable. | | | |
+| **7. Flexibility and Efficiency of Use** | Support both novice and expert users. | | | |
+| **8. Aesthetic and Minimalist Design** | Keep the interface simple and uncluttered. | | | |
+| **9. Error Recovery** | Provide clear, helpful error messages. | | | |
+| **10. Help and Documentation** | Offer accessible, task-focused help. | | | |
+
 ## Practical Example: Evaluating a Checkout Form
 
 Imagine you are evaluating the checkout page of a small e-commerce site. During your second pass, you notice that when a user enters an invalid zip code, the page reloads, clears all the data the user just typed, and displays a generic message at the top saying "Invalid Input."
@@ -55,6 +70,8 @@ You would likely rate this as a **3 (Major Usability Problem)** because it cause
 One of the primary challenges in heuristic evaluation is "evaluator bias." We all have personal preferences for certain colors or layouts. To solve this, always ground your critique in a specific heuristic. Instead of saying "I don't like this menu," say "The menu violates 'Recognition rather than recall' because the icons are non-standard and require the user to memorize their meaning."
 
 Another challenge is missing domain-specific problems. Heuristics are general principles, and they might not catch issues related to the specific content of a site. To mitigate this, supplement your heuristic evaluation with user testing whenever possible. Heuristic evaluation finds the "obvious" UI bugs, while user testing finds the deeper workflow issues.
+
+
 
 ## Summary
 
