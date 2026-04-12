@@ -1,5 +1,7 @@
 # Capstone Part One Discovery and Research
 
+test
+
 The capstone project represents the synthesis of everything you have learned about Human-Computer Interaction (HCI) and web design. Up to this point, you have explored the theoretical underpinnings of mental models, the precision of Nielsen’s heuristics, and the technical requirements of responsive design. Now, you transition from student to practitioner. The first phase of this journey is not about writing code or even sketching layouts; it is about discovery. This phase requires you to step back from the "how" of development and focus entirely on the "why" and the "who."
 
 
