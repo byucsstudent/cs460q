@@ -22,8 +22,6 @@ In 1956, cognitive psychologist George Miller published one of the most cited pa
 >
 > _Miller's Law_
 
-[Experiment with Miller's Law](/course/ede2e6ad-1b55-4ddb-8d4b-e04beff16b9f/topic/260e2efb-50f6-412c-aad5-e639466e5469)
-
 ```masteryls
 {"id":"a4b2a9f8-25e3-4ca4-8cca-42f3eb20537e", "title":"Miller's Law", "type":"web-page" "file":"demo/millers-law.html" "height":"750px"}
 
