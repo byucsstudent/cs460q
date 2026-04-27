@@ -24,6 +24,11 @@ In 1956, cognitive psychologist George Miller published one of the most cited pa
 
 [Experiment with Miller's Law](/course/ede2e6ad-1b55-4ddb-8d4b-e04beff16b9f/topic/260e2efb-50f6-412c-aad5-e639466e5469)
 
+```masteryls
+{"id":"a4b2a9f8-25e3-4ca4-8cca-42f3eb20537e", "title":"Miller's Law", "type":"web-page" "file":"demo/millers-law.html"}
+
+```
+
 #### Practical Example: Information Chunking
 Consider a credit card input field. A string of 16 digits (1234567812345678) is nearly impossible to hold in working memory at once. However, by "chunking" the data into four groups (1234 5678 1234 5678), we reduce the cognitive burden. The user no longer has to remember sixteen individual items; they only need to process four chunks.
 
